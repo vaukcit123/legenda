@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:0,tvcine action
+http://185.236.229.21:9981/play/a04n
+#EXTINF:0,tvcine edition
+http://185.236.229.21:9981/play/a061
+#EXTINF:0,tvcine emotion
+http://185.236.229.21:9981/play/a05z
+#EXTINF:0,tvcine top
+http://185.236.229.21:9981/play/a04w
+#EXTINF:0,nós studios
+http://185.236.229.21:9981/play/a054
+
