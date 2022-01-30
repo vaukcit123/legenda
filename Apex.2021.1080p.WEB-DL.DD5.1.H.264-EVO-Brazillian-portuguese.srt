@@ -5,123 +5,123 @@ Espero que eu tenha valido sua grana.
 
 2
 00:01:19,960 --> 00:01:20,920
-{\an8}Vá em frente.
+Vá em frente.
 
 3
 00:01:23,960 --> 00:01:24,920
-{\an8}Só um segundinho.
+Só um segundinho.
 
 4
 00:01:25,760 --> 00:01:26,760
-{\an8}Oi, querida.
+Oi, querida.
 
 5
 00:01:28,440 --> 00:01:30,120
-{\an8}É, diga à sua irmã
+É, diga à sua irmã
 que eu chego em uma hora.
 
 6
 00:01:30,160 --> 00:01:31,840
-{\an8}Estou terminando uma partida de golfe.
+Estou terminando uma partida de golfe.
 
 7
 00:01:32,479 --> 00:01:33,679
-{\an8}Eu também te amo.
+Eu também te amo.
 
 8
 00:01:37,720 --> 00:01:38,960
-{\an8}Cale a boca e lute.
+Cale a boca e lute.
 
 9
 00:02:00,640 --> 00:02:02,000
-{\an8}Vá se foder, Rainsford.
+Vá se foder, Rainsford.
 
 10
 00:02:02,040 --> 00:02:03,200
-{\an8}Vejo você na próxima, Mitch.
+Vejo você na próxima, Mitch.
 
 11
 00:02:03,240 --> 00:02:05,040
-{\an8}Se eu ficar sem sorte.
+Se eu ficar sem sorte.
 
 12
 00:02:05,081 --> 00:02:06,441
-{\an8}Ei, Rain, uma perguntinha.
+Ei, Rain, uma perguntinha.
 
 13
 00:02:06,480 --> 00:02:08,200
-{\an8}-Sim?
+-Sim?
 -Quem você pensa que é?
 
 14
 00:02:08,840 --> 00:02:10,400
-{\an8}Você vem aqui e toma minha morte
+Você vem aqui e toma minha morte
 
 15
 00:02:10,440 --> 00:02:11,920
-{\an8}porque é um médico importante?
+porque é um médico importante?
 
 16
 00:02:11,960 --> 00:02:13,120
-{\an8}Não quero estar aqui.
+Não quero estar aqui.
 
 17
 00:02:13,161 --> 00:02:14,280
-{\an8}Lembra-se do que seu pai disse
+Lembra-se do que seu pai disse
 
 18
 00:02:14,320 --> 00:02:15,361
-{\an8}quando te pediu pra comandar a empresa?
+quando te pediu pra comandar a empresa?
 
 19
 00:02:15,400 --> 00:02:17,001
-{\an8}"Você é lento pra caralho."
+"Você é lento pra caralho."
 
 20
 00:02:18,160 --> 00:02:19,640
-{\an8}Vão me mandar de volta pra reabilitação.
+Vão me mandar de volta pra reabilitação.
 
 21
 00:02:19,680 --> 00:02:21,320
-{\an8}Lento pra caralho.
+Lento pra caralho.
 
 22
 00:02:21,801 --> 00:02:23,200
-{\an8}Isso é... O que...
+Isso é... O que...
 
 23
 00:02:23,240 --> 00:02:24,520
-{\an8}Como assim?
+Como assim?
 
 24
 00:02:24,561 --> 00:02:26,280
-{\an8}Quer saber? Vá se foder, cara!
+Quer saber? Vá se foder, cara!
 
 25
 00:02:28,480 --> 00:02:31,560
-{\an8}<i>Parabéns por mais uma vitória,
+<i>Parabéns por mais uma vitória,
 Dr. Rainsford.</i>
 
 26
 00:02:31,600 --> 00:02:34,200
-{\an8}<i>A presa já está na sua sala de troféus.</i>
+<i>A presa já está na sua sala de troféus.</i>
 
 27
 00:02:34,240 --> 00:02:36,680
-{\an8}Meu entusiasmo pelo seu esporte
+Meu entusiasmo pelo seu esporte
 está chegando ao fim.
 
 28
 00:02:37,600 --> 00:02:39,280
-{\an8}<i>Que tal ser a presa</i>
+<i>Que tal ser a presa</i>
 
 29
 00:02:39,320 --> 00:02:40,280
-{\an8}<i>em vez do predador?</i>
+<i>em vez do predador?</i>
 
 30
 00:02:40,920 --> 00:02:43,720
-{\an8}Não confunda meu tédio
+Não confunda meu tédio
 com tendências suicidas.
 
 31
