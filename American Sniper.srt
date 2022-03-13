@@ -1,0 +1,7484 @@
+1
+00:00:05,973 --> 00:00:10,519
+<i>Alá</i>
+
+2
+00:00:10,519 --> 00:00:11,895
+<i>é o maior</i>
+
+3
+00:00:15,983 --> 00:00:20,863
+<i>Alá</i>
+
+4
+00:00:20,863 --> 00:00:22,197
+<i>é o maior</i>
+
+5
+00:01:00,000 --> 00:01:00,208
+M
+
+6
+00:01:00,208 --> 00:01:00,416
+MO
+
+7
+00:01:00,416 --> 00:01:00,624
+MOV
+
+8
+00:01:00,624 --> 00:01:00,832
+MOVI
+
+9
+00:01:00,832 --> 00:01:01,040
+MOVIM
+
+10
+00:01:01,040 --> 00:01:01,248
+MOVIME
+
+11
+00:01:01,248 --> 00:01:01,456
+MOVIMEN
+
+12
+00:01:01,456 --> 00:01:01,664
+MOVIMENT
+
+13
+00:01:01,664 --> 00:01:01,872
+MOVIMENTO
+
+14
+00:01:01,872 --> 00:01:02,080
+MOVIMENTO C
+
+15
+00:01:02,080 --> 00:01:02,288
+MOVIMENTO CI
+
+16
+00:01:02,288 --> 00:01:02,496
+MOVIMENTO CIN
+
+17
+00:01:02,496 --> 00:01:02,704
+MOVIMENTO CINE
+
+18
+00:01:02,704 --> 00:01:02,912
+MOVIMENTO CINEM
+
+19
+00:01:02,912 --> 00:01:03,120
+MOVIMENTO CINEMA
+
+20
+00:01:03,120 --> 00:01:03,328
+MOVIMENTO CINEMA L
+
+21
+00:01:03,328 --> 00:01:03,536
+MOVIMENTO CINEMA LI
+
+22
+00:01:03,536 --> 00:01:03,744
+MOVIMENTO CINEMA LIV
+
+23
+00:01:03,744 --> 00:01:03,952
+MOVIMENTO CINEMA LIVR
+
+24
+00:01:03,952 --> 00:01:04,160
+MOVIMENTO CINEMA LIVRE
+
+25
+00:01:04,160 --> 00:01:04,368
+MOVIMENTO CINEMA LIVRE
+.
+
+26
+00:01:04,368 --> 00:01:04,576
+MOVIMENTO CINEMA LIVRE
+..
+
+27
+00:01:04,576 --> 00:01:04,784
+MOVIMENTO CINEMA LIVRE
+...
+
+28
+00:01:04,784 --> 00:01:04,992
+MOVIMENTO CINEMA LIVRE
+...:
+
+29
+00:01:04,992 --> 00:01:05,200
+MOVIMENTO CINEMA LIVRE
+...::
+
+30
+00:01:05,200 --> 00:01:05,408
+MOVIMENTO CINEMA LIVRE
+...:::
+
+31
+00:01:05,408 --> 00:01:05,616
+MOVIMENTO CINEMA LIVRE
+...::: A
+
+32
+00:01:05,616 --> 00:01:05,824
+MOVIMENTO CINEMA LIVRE
+...::: A P
+
+33
+00:01:05,824 --> 00:01:06,032
+MOVIMENTO CINEMA LIVRE
+...::: A P R
+
+34
+00:01:06,032 --> 00:01:06,240
+MOVIMENTO CINEMA LIVRE
+...::: A P R E
+
+35
+00:01:06,240 --> 00:01:06,448
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S
+
+36
+00:01:06,448 --> 00:01:06,656
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E
+
+37
+00:01:06,656 --> 00:01:06,864
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N
+
+38
+00:01:06,864 --> 00:01:07,072
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T
+
+39
+00:01:07,072 --> 00:01:07,280
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A
+
+40
+00:01:07,280 --> 00:01:07,488
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A :
+
+41
+00:01:07,488 --> 00:01:07,696
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A ::
+
+42
+00:01:07,696 --> 00:01:07,904
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A :::
+
+43
+00:01:07,904 --> 00:01:08,112
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A :::.
+
+44
+00:01:08,112 --> 00:01:08,320
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A :::..
+
+45
+00:01:08,320 --> 00:01:11,000
+MOVIMENTO CINEMA LIVRE
+...::: A P R E S E N T A :::...
+
+46
+00:01:11,747 --> 00:01:14,792
+<b>SNIPER AMERICANO</b>
+
+47
+00:01:16,794 --> 00:01:18,295
+Esse calor é de matar.
+
+48
+00:01:19,505 --> 00:01:23,008
+A poeira daqui tem gosto
+de merda de cachorro.
+
+49
+00:01:23,008 --> 00:01:25,010
+Conhece o gosto, não é?
+
+50
+00:01:25,010 --> 00:01:26,804
+Cale a boca.
+
+51
+00:01:33,519 --> 00:01:34,937
+Abra.
+
+52
+00:02:13,225 --> 00:02:18,105
+Vejo um homem de idade militar
+ao celular vigiando o comboio.
+
+53
+00:02:18,105 --> 00:02:20,441
+<i>Se achar que ele está
+passando informações,</i>
+
+54
+00:02:20,441 --> 00:02:23,152
+<i>você tem sinal verde.
+Você decide. Câmbio.</i>
+
+55
+00:02:23,152 --> 00:02:25,904
+Talvez ele só esteja
+falando com a patroa.
+
+56
+00:02:33,120 --> 00:02:34,830
+Ele saiu de vista.
+
+57
+00:02:43,672 --> 00:02:47,384
+Vejo uma mulher e uma criança
+a 200 metros de distância,
+
+58
+00:02:47,384 --> 00:02:49,219
+andando em direção
+ao comboio.
+
+59
+00:02:53,766 --> 00:02:56,560
+Ela não mexe os braços,
+está carregando algo.
+
+60
+00:03:05,861 --> 00:03:09,490
+Ela tem uma granada RKG
+e está dando para a criança.
+
+61
+00:03:09,865 --> 00:03:11,909
+<i>Disse uma mulher
+e uma criança?</i>
+
+62
+00:03:12,242 --> 00:03:14,912
+<i>- Está vendo? Pode confirmar?
+- Negativo.</i>
+
+63
+00:03:14,912 --> 00:03:16,997
+<i>Você sabe o protocolo.
+A decisão é sua.</i>
+
+64
+00:03:16,997 --> 00:03:20,918
+Se você estiver enganado,
+vai apodrecer na prisão militar.
+
+65
+00:03:38,143 --> 00:03:39,520
+Você o pegou.
+
+66
+00:03:56,286 --> 00:03:57,871
+Volte aqui.
+
+67
+00:04:00,416 --> 00:04:02,835
+Nunca deixe seu rifle
+no chão.
+
+68
+00:04:03,085 --> 00:04:04,586
+Sim, senhor.
+
+69
+00:04:08,507 --> 00:04:10,384
+Belo tiro, filho.
+
+70
+00:04:10,926 --> 00:04:12,594
+Você tem o dom.
+
+71
+00:04:13,971 --> 00:04:16,223
+Um dia será
+um ótimo caçador.
+
+72
+00:04:17,933 --> 00:04:19,810
+<i>No "Atos dos Apóstolos",</i>
+
+73
+00:04:19,810 --> 00:04:23,272
+<i>por várias vezes
+Paulo se indaga...</i>
+
+74
+00:04:23,814 --> 00:04:25,607
+sobre suas crenças.
+
+75
+00:04:26,317 --> 00:04:28,319
+Às vezes todos temos
+que fazer isso.
+
+76
+00:04:28,319 --> 00:04:30,571
+Nós não vemos
+com os olhos d'Ele,
+
+77
+00:04:30,571 --> 00:04:34,033
+então não conhecemos
+a glória do Seu plano.
+
+78
+00:04:34,366 --> 00:04:35,784
+Nossas vidas se desdobram
+
+79
+00:04:35,784 --> 00:04:38,871
+como reflexos confusos
+num espelho.
+
+80
+00:04:39,705 --> 00:04:42,458
+- Mas quando nos elevarmos...
+- O que está fazendo?
+
+81
+00:04:43,459 --> 00:04:48,297
+enxergaremos com clareza
+e entenderemos Seus mistérios.
+
+82
+00:04:48,547 --> 00:04:50,049
+Oremos.
+
+83
+00:04:51,008 --> 00:04:53,510
+<i>Há três tipos de pessoas
+no mundo.</i>
+
+84
+00:04:54,386 --> 00:04:57,681
+<i>Ovelhas, lobos
+e cães pastores.</i>
+
+85
+00:04:58,390 --> 00:05:01,226
+Algumas pessoas
+preferem acreditar
+
+86
+00:05:01,226 --> 00:05:03,562
+que o mal não existe
+neste mundo.
+
+87
+00:05:03,562 --> 00:05:07,608
+Se o mal lhes bate à porta,
+eles não sabem se defender.
+
+88
+00:05:07,608 --> 00:05:09,401
+Essas são as ovelhas.
+
+89
+00:05:10,319 --> 00:05:12,154
+Aí temos os predadores,
+
+90
+00:05:12,154 --> 00:05:15,157
+<i>que usam de violência
+para tirar proveito dos fracos.</i>
+
+91
+00:05:15,157 --> 00:05:16,700
+<i>São os lobos.</i>
+
+92
+00:05:17,993 --> 00:05:22,164
+E há aqueles abençoados
+com o dom da agressão,
+
+93
+00:05:22,164 --> 00:05:24,958
+<i>com a necessidade indômita
+de proteger o rebanho.</i>
+
+94
+00:05:26,710 --> 00:05:30,464
+Esses são de uma espécie rara
+que vive para enfrentar o lobo.
+
+95
+00:05:32,174 --> 00:05:34,093
+São os cães pastores.
+
+96
+00:05:36,428 --> 00:05:39,431
+Não estamos criando
+nenhuma ovelha nesta família.
+
+97
+00:05:40,808 --> 00:05:43,852
+- Mato-os se virarem lobos.
+- Wayne...
+
+98
+00:05:48,691 --> 00:05:50,734
+Mas nós protegemos
+os nossos.
+
+99
+00:05:51,986 --> 00:05:54,279
+Se alguém brigar
+com você...
+
+100
+00:05:54,655 --> 00:05:56,907
+Se alguém intimidar
+seu irmão caçula,
+
+101
+00:05:56,907 --> 00:05:58,951
+pode acabar com ele.
+
+102
+00:05:58,951 --> 00:06:00,995
+O cara estava
+atormentando o Jeff.
+
+103
+00:06:02,162 --> 00:06:03,664
+É verdade?
+
+104
+00:06:03,789 --> 00:06:06,333
+Sim, senhor, ele estava.
+
+105
+00:06:07,584 --> 00:06:09,545
+Você acabou com ele?
+
+106
+00:06:12,631 --> 00:06:14,758
+<i>Então você sabe
+quem você é.</i>
+
+107
+00:06:18,679 --> 00:06:20,431
+<i>Conhece o seu propósito.</i>
+
+108
+00:06:22,975 --> 00:06:26,478
+<i>Chris Kyle no cavalo
+irá arrasar esta noite...</i>
+
+109
+00:06:28,314 --> 00:06:29,732
+Está tudo bem.
+
+110
+00:06:30,816 --> 00:06:32,234
+Vai funcionar.
+
+111
+00:06:35,029 --> 00:06:36,530
+Está bom.
+
+112
+00:06:37,114 --> 00:06:40,200
+<i>Hoje ele precisa bater
+o recorde de 18 segundos.</i>
+
+113
+00:06:40,200 --> 00:06:43,078
+<i>Vamos ovacioná-lo
+no rodeio da cidade.</i>
+
+114
+00:07:09,813 --> 00:07:12,650
+<i>Ei, Jeff!
+Seu irmão é muito bom.</i>
+
+115
+00:07:14,068 --> 00:07:18,322
+Não tinha ninguém lá
+e você levou a fivela.
+
+116
+00:07:18,530 --> 00:07:21,575
+- Para que isso serve?
+- Para pegar mulher.
+
+117
+00:07:21,575 --> 00:07:23,702
+Vou usar e ver
+se deixa Sarah excitada.
+
+118
+00:07:23,702 --> 00:07:26,747
+- Até um vento forte deixa.
+- É isso que dizem?
+
+119
+00:07:26,747 --> 00:07:29,124
+- O apelido dela no colégio...
+- Não diga.
+
+120
+00:07:29,124 --> 00:07:30,793
+- Sarah Chupa...
+- Já chega!
+
+121
+00:07:30,834 --> 00:07:33,295
+- Caramba, Chris!
+- Merda.
+
+122
+00:07:41,553 --> 00:07:43,722
+Além do dinheiro
+havia duas garotas...
+
+123
+00:07:43,722 --> 00:07:45,641
+Ele não tirava
+os olhos dela.
+
+124
+00:07:45,641 --> 00:07:47,601
+Por isso tive
+que sair da cidade.
+
+125
+00:07:47,601 --> 00:07:49,979
+Espere para ver
+do que isso é capaz.
+
+126
+00:07:49,979 --> 00:07:51,480
+Preste atenção.
+
+127
+00:07:51,480 --> 00:07:54,024
+Amor, quem quer transar
+com um astro de rodeio?
+
+128
+00:07:54,024 --> 00:07:56,819
+- Que merda é essa?
+- Falou que voltaria amanhã.
+
+129
+00:07:56,860 --> 00:07:59,738
+- Falei o quê?
+- Chris, deixe-o em paz.
+
+130
+00:07:59,738 --> 00:08:02,032
+- Ele não fez nada.
+- Eu não sabia, cara.
+
+131
+00:08:02,449 --> 00:08:04,034
+Chris, deixe-o em paz!
+
+132
+00:08:04,034 --> 00:08:06,495
+Que merda, Chris!
+Deixe-o em paz!
+
+133
+00:08:06,495 --> 00:08:08,622
+Maldição!
+Qual é o seu problema?
+
+134
+00:08:08,622 --> 00:08:10,499
+- Ele não sabia!
+- Não sabia?
+
+135
+00:08:10,499 --> 00:08:12,668
+- O que você não sabia?
+- Dê meu chapéu.
+
+136
+00:08:12,668 --> 00:08:14,253
+Pegue o chapéu.
+Não sabia?
+
+137
+00:08:14,294 --> 00:08:16,046
+De quem achou
+que eram as calças?
+
+138
+00:08:16,046 --> 00:08:17,840
+Seriam dela
+as roupas masculinas?
+
+139
+00:08:17,840 --> 00:08:20,509
+- Isso que não sabia?
+- Qual é o seu problema?
+
+140
+00:08:20,509 --> 00:08:22,594
+Por que precisa
+bater em todo mundo?
+
+141
+00:08:22,594 --> 00:08:25,639
+Pegue a merda do chapéu
+e dê o fora daqui.
+
+142
+00:08:27,266 --> 00:08:29,560
+Qual é o seu problema?
+
+143
+00:08:32,229 --> 00:08:35,065
+- Vá embora.
+- Não sei o que espera de mim.
+
+144
+00:08:35,357 --> 00:08:37,609
+Arrastou-me para cá
+e sai com o seu irmão
+
+145
+00:08:37,609 --> 00:08:39,278
+todo fim de semana.
+
+146
+00:08:39,320 --> 00:08:41,405
+Por que você acha
+que eu fiz isso?
+
+147
+00:08:41,780 --> 00:08:44,950
+Faço para chamar atenção!
+Não entende isso?
+
+148
+00:08:48,162 --> 00:08:50,414
+Pegue suas coisas
+e vá embora.
+
+149
+00:08:51,206 --> 00:08:53,542
+Tudo bem, quer saber?
+Que se dane.
+
+150
+00:08:54,710 --> 00:08:57,504
+Você acha que é caubói
+por participar de rodeios?
+
+151
+00:08:57,504 --> 00:09:00,841
+Você não é caubói.
+É só um peão fajuto.
+
+152
+00:09:00,841 --> 00:09:03,010
+E um bosta na cama.
+
+153
+00:09:09,058 --> 00:09:10,768
+Não diga.
+
+154
+00:09:11,393 --> 00:09:13,103
+Quando é o casamento?
+
+155
+00:09:16,565 --> 00:09:18,859
+Eu entendo
+o que quer dizer...
+
+156
+00:09:19,193 --> 00:09:21,945
+mas conseguimos viajar
+por todo o estado.
+
+157
+00:09:22,404 --> 00:09:25,032
+Uma cidade diferente
+a cada fim de semana.
+
+158
+00:09:26,533 --> 00:09:28,369
+Cavalos chucros
+não ficam parados.
+
+159
+00:09:28,369 --> 00:09:30,371
+Talvez ela esteja certa.
+
+160
+00:09:30,537 --> 00:09:34,208
+Certa?
+Certa sobre o quê, Chris?
+
+161
+00:09:34,625 --> 00:09:37,670
+Não está, nós somos caubóis
+na vida em que sonhamos.
+
+162
+00:09:37,670 --> 00:09:39,088
+<i>Boletim especial.</i>
+
+163
+00:09:39,088 --> 00:09:42,174
+<i>As explosões ocorridas
+nas embaixadas americanas</i>
+
+164
+00:09:42,174 --> 00:09:45,260
+<i>em Dar es Salaam na Tanzânia
+e Nairóbi no Quênia,</i>
+
+165
+00:09:45,260 --> 00:09:48,514
+<i>foram parte de uma guerra
+de alguém contra os EUA.</i>
+
+166
+00:09:48,514 --> 00:09:49,890
+<i>Ao menos 80 morreram</i>
+
+167
+00:09:49,890 --> 00:09:53,352
+<i>e 1.700 ficaram feridos
+em duas explosões.</i>
+
+168
+00:09:53,394 --> 00:09:55,062
+Jeff.
+
+169
+00:09:55,479 --> 00:09:58,107
+Ei, olhe só.
+
+170
+00:09:58,148 --> 00:10:01,777
+<i>Ainda não se sabe
+quem é o nosso inimigo.</i>
+
+171
+00:10:01,777 --> 00:10:04,738
+<i>- As embaixadas eram o alvo...
+- Olhe que nos fizeram.</i>
+
+172
+00:10:04,738 --> 00:10:06,949
+<i>A maioria das vítimas
+não é americana.</i>
+
+173
+00:10:06,949 --> 00:10:08,409
+<i>Contudo, oito americanos,</i>
+
+174
+00:10:08,409 --> 00:10:10,577
+<i>entre eles uma criança,
+morreram,</i>
+
+175
+00:10:10,577 --> 00:10:12,788
+<i>e cinco permanecem
+desaparecidos.</i>
+
+176
+00:10:15,374 --> 00:10:17,292
+JUNTA DE SERVIÇO MILITAR
+
+177
+00:10:17,292 --> 00:10:19,545
+<i>- Você é do Texas?
+- Sim, senhor.</i>
+
+178
+00:10:19,545 --> 00:10:21,463
+- É patriota?
+- Sim, senhor.
+
+179
+00:10:21,964 --> 00:10:25,092
+- E está irritado?
+- Quero ser útil.
+
+180
+00:10:25,092 --> 00:10:27,303
+- Gosta de lutar?
+- Sim, senhor.
+
+181
+00:10:27,303 --> 00:10:29,513
+Gosta de lutar, certo...
+
+182
+00:10:29,847 --> 00:10:32,057
+Que tal a elite
+dos guerreiros?
+
+183
+00:10:32,641 --> 00:10:35,561
+- SEALs?
+- Mar, ar e terra.
+
+184
+00:10:35,853 --> 00:10:37,479
+Não sou muito de água,
+senhor.
+
+185
+00:10:37,479 --> 00:10:39,815
+Isso não é
+para os fracos de coração.
+
+186
+00:10:39,815 --> 00:10:41,442
+A maioria dos homens
+desiste.
+
+187
+00:10:41,442 --> 00:10:43,902
+Não sou a maioria, senhor.
+Eu não desisto.
+
+188
+00:10:46,280 --> 00:10:48,032
+<i>Mexam esses traseiros!</i>
+
+189
+00:10:48,032 --> 00:10:50,826
+Aguentem, garotas.
+Isso mesmo.
+
+190
+00:10:50,826 --> 00:10:53,996
+Aguentem.
+Só dói da primeira vez.
+
+191
+00:10:53,996 --> 00:10:56,206
+Quem temos aqui?
+É de desistir, rapaz?
+
+192
+00:10:56,206 --> 00:11:00,085
+- Não, instrutor Rolle!
+- Mentira! Mal levanta a perna!
+
+193
+00:11:00,085 --> 00:11:01,503
+Não fuja de mim, filho.
+
+194
+00:11:01,503 --> 00:11:03,589
+Olhe para mim
+e leve água na cara.
+
+195
+00:11:03,589 --> 00:11:06,300
+<i>- Hooyah!
+- Cara, você é velho!</i>
+
+196
+00:11:06,300 --> 00:11:08,802
+Veio para a Marinha
+por curtir a Arca de Noé?
+
+197
+00:11:08,802 --> 00:11:11,138
+<i>- Quantos anos, rapaz?
+- Hooyah, 30.</i>
+
+198
+00:11:11,180 --> 00:11:14,642
+Trinta? Poderia ser pai
+de metade destes caras.
+
+199
+00:11:14,808 --> 00:11:17,019
+Vamos filtrar
+os desistentes.
+
+200
+00:11:17,019 --> 00:11:19,938
+Vamos achar
+mais algum guerreiro hoje.
+
+201
+00:11:19,938 --> 00:11:22,024
+Dauber, você é mesmo
+de Connecticut?
+
+202
+00:11:22,024 --> 00:11:24,610
+Nunca tinha visto
+um caipira de Hartford.
+
+203
+00:11:24,610 --> 00:11:26,070
+<i>Hooyah, instrutor.</i>
+
+204
+00:11:26,070 --> 00:11:28,906
+Caipiras estão por tudo.
+Vim para matar terroristas.
+
+205
+00:11:28,906 --> 00:11:32,201
+Quem diabos disse
+para irem mais devagar?
+
+206
+00:11:32,201 --> 00:11:34,119
+Não, instrutor Rolle.
+
+207
+00:11:34,119 --> 00:11:37,581
+- Mandei abrir a boca?
+- Não, instrutor Rolle.
+
+208
+00:11:37,581 --> 00:11:40,542
+Olha como chacoalha
+essa sua bunda gorda.
+
+209
+00:11:40,542 --> 00:11:45,005
+Caramba, filho!
+Você só come porcaria.
+
+210
+00:11:45,005 --> 00:11:47,633
+Isso mesmo!
+
+211
+00:11:47,633 --> 00:11:50,719
+"Biggles". É o seu nome
+de agora em diante, fofo.
+
+212
+00:11:50,719 --> 00:11:52,513
+Lá está a porta de saída.
+
+213
+00:11:52,513 --> 00:11:54,807
+D.,
+por que ainda está aqui?
+
+214
+00:11:54,807 --> 00:11:57,226
+Todos sabem
+que negros não nadam.
+
+215
+00:11:57,226 --> 00:11:59,228
+Tudo bem, senhor,
+não sou negro.
+
+216
+00:11:59,228 --> 00:12:01,146
+- Não?
+- Não, sou dos novos negros.
+
+217
+00:12:01,146 --> 00:12:02,940
+Corremos devagar,
+pulamos baixo,
+
+218
+00:12:02,940 --> 00:12:04,650
+nadamos bem
+e compramos na Gap.
+
+219
+00:12:04,650 --> 00:12:07,653
+Dou orgulho aos brancos
+e como as mulheres deles.
+
+220
+00:12:07,653 --> 00:12:09,029
+Acabo com elas!
+
+221
+00:12:09,279 --> 00:12:11,490
+<i>Hooyah!</i>
+
+222
+00:12:12,116 --> 00:12:15,828
+Lá está ele!
+Aquilo é um desistente.
+
+223
+00:12:16,286 --> 00:12:18,580
+Ele dá adeus,
+eu digo "vai tarde".
+
+224
+00:12:18,580 --> 00:12:21,542
+Se desiste aqui,
+vai desistir na batalha.
+
+225
+00:12:21,917 --> 00:12:23,585
+A coisa complica
+e ele não age,
+
+226
+00:12:23,585 --> 00:12:26,088
+você leva um tiro
+e ele não te socorre.
+
+227
+00:12:26,380 --> 00:12:28,215
+Estou atrás de guerreiros!
+
+228
+00:12:28,215 --> 00:12:30,175
+<i>- 7.
+- Continuem contando.</i>
+
+229
+00:12:30,843 --> 00:12:32,928
+<i>- 8.
+- Não estou ouvindo!</i>
+
+230
+00:12:33,262 --> 00:12:35,180
+Quer que eu chame
+sua mãe, velhote?
+
+231
+00:12:35,180 --> 00:12:37,141
+Talvez ela possa vir
+te substituir.
+
+232
+00:12:37,141 --> 00:12:39,018
+Isso são as preliminares!
+
+233
+00:12:39,143 --> 00:12:42,438
+Que tal ouvirmos Marvin Gaye
+e eu comer esse rabo?
+
+234
+00:12:42,438 --> 00:12:44,481
+É disso que estou falando.
+
+235
+00:12:44,481 --> 00:12:47,609
+Esquilo, Esquilo,
+aonde foram suas nozes?
+
+236
+00:12:47,609 --> 00:12:50,821
+Sumiram, senhor.
+Voltaram para dentro.
+
+237
+00:12:50,821 --> 00:12:52,489
+Mas estão aquecidas.
+
+238
+00:12:52,489 --> 00:12:54,658
+Grande diversão
+para um pequeno homem.
+
+239
+00:12:54,658 --> 00:12:58,162
+E você?
+E você, velhote?
+
+240
+00:12:59,788 --> 00:13:01,165
+Como se sente?
+
+241
+00:13:01,165 --> 00:13:04,418
+<i>Hooyah, perigoso.
+Estou me sentindo perigoso.</i>
+
+242
+00:13:04,752 --> 00:13:07,838
+<i>Hooyah!
+Kyle se sente perigoso!</i>
+
+243
+00:13:07,838 --> 00:13:09,214
+<i>Avançar.</i>
+
+244
+00:13:14,386 --> 00:13:16,096
+<i>Sentar!</i>
+
+245
+00:13:21,101 --> 00:13:24,605
+Essa turma 5063
+aguentará até o fim!
+
+246
+00:13:29,652 --> 00:13:32,738
+Só mais duas horas
+e serão SEALs.
+
+247
+00:13:32,738 --> 00:13:35,491
+<i>De submetralhadora
+e faca em punho</i>
+
+248
+00:13:35,532 --> 00:13:38,369
+<i>Esses são os instrumentos
+que matam homens</i>
+
+249
+00:13:38,369 --> 00:13:41,038
+<i>Esses são os instrumentos
+que matam homens</i>
+
+250
+00:13:41,330 --> 00:13:43,207
+- Sou o único que acertou.
+- Sim.
+
+251
+00:13:45,876 --> 00:13:47,628
+Sua vez, cara.
+
+252
+00:13:47,628 --> 00:13:50,130
+- Você tem mais uma.
+- Mais uma? Certo.
+
+253
+00:13:50,130 --> 00:13:51,632
+Lá vai.
+
+254
+00:13:53,592 --> 00:13:56,679
+Se quiser um alvo menor,
+podemos usar seu braço.
+
+255
+00:13:58,973 --> 00:14:01,517
+- Olá.
+- Oi.
+
+256
+00:14:02,184 --> 00:14:03,602
+Como vai?
+
+257
+00:14:04,228 --> 00:14:05,896
+Bem, obrigada.
+
+258
+00:14:08,065 --> 00:14:10,025
+Posso te pagar uma bebida?
+
+259
+00:14:10,567 --> 00:14:14,238
+Uma bebida te fará
+mais alto e atraente?
+
+260
+00:14:14,238 --> 00:14:16,490
+Você deixará
+de ser casado?
+
+261
+00:14:16,490 --> 00:14:19,827
+- Eu não sou...
+- Eu te vi tirando a aliança.
+
+262
+00:14:20,035 --> 00:14:22,830
+Não seja babaca.
+Vai para casa.
+
+263
+00:14:25,332 --> 00:14:27,001
+Meu Deus.
+
+264
+00:14:29,503 --> 00:14:31,839
+Pode ter sido
+a calça de couro.
+
+265
+00:14:31,839 --> 00:14:33,215
+É?
+
+266
+00:14:34,216 --> 00:14:37,344
+Que calça tenho que usar
+para ser deixada em paz?
+
+267
+00:14:37,344 --> 00:14:39,263
+Calça de veludo?
+
+268
+00:14:40,180 --> 00:14:42,099
+É assim que funciona
+com vocês?
+
+269
+00:14:42,099 --> 00:14:44,727
+Ficam solteiros
+depois de três cervejas?
+
+270
+00:14:45,019 --> 00:14:48,188
+Depois de três cervejas,
+eu pego uma quarta.
+
+271
+00:14:48,188 --> 00:14:50,441
+Que ótimo.
+
+272
+00:14:50,607 --> 00:14:53,861
+- Um legítimo caipira.
+- Não, eu sou do Texas.
+
+273
+00:14:54,528 --> 00:14:56,238
+Qual é a diferença?
+
+274
+00:14:56,238 --> 00:14:59,241
+Nós montamos em cavalos
+e eles montam nas primas.
+
+275
+00:15:00,159 --> 00:15:02,202
+O que faz aqui?
+Obviamente é militar.
+
+276
+00:15:02,202 --> 00:15:03,787
+Eu esfrego golfinhos.
+
+277
+00:15:03,787 --> 00:15:06,540
+Eles ficam em cativeiro
+e removo os crustáceos...
+
+278
+00:15:06,540 --> 00:15:08,292
+Eu pareço idiota?
+
+279
+00:15:08,792 --> 00:15:10,836
+Na verdade,
+parece meio triste.
+
+280
+00:15:14,882 --> 00:15:17,343
+Sou alto o bastante
+para te pagar uma bebida?
+
+281
+00:15:17,343 --> 00:15:19,136
+Só se me disser
+o que você faz.
+
+282
+00:15:19,136 --> 00:15:21,639
+Certo, que tal...
+Greg, veja duas doses.
+
+283
+00:15:21,639 --> 00:15:23,349
+Que tal uma dose
+por pergunta?
+
+284
+00:15:23,349 --> 00:15:26,769
+A cada pergunta respondida,
+o outro toma uma dose.
+
+285
+00:15:26,769 --> 00:15:28,187
+Combinado.
+
+286
+00:15:28,187 --> 00:15:29,772
+Pode deixar a garrafa.
+
+287
+00:15:29,772 --> 00:15:31,231
+Pode perguntar.
+
+288
+00:15:31,523 --> 00:15:32,941
+Está bem.
+
+289
+00:15:33,275 --> 00:15:35,277
+Vejo que é militar.
+De qual divisão?
+
+290
+00:15:35,277 --> 00:15:38,113
+Acabo de concluir a escola
+de atiradores da Marinha.
+
+291
+00:15:38,530 --> 00:15:40,199
+Está brincando?
+Você é um SEAL?
+
+292
+00:15:40,199 --> 00:15:41,617
+Sim, senhora.
+
+293
+00:15:43,452 --> 00:15:46,580
+- Foram duas perguntas.
+- Droga.
+
+294
+00:15:47,122 --> 00:15:48,582
+Sério?
+
+295
+00:15:51,627 --> 00:15:54,046
+Não falei sério,
+não precisava.
+
+296
+00:15:54,463 --> 00:15:56,507
+Caramba.
+
+297
+00:15:56,507 --> 00:15:59,802
+Sei tudo sobre vocês.
+Minha irmã foi noiva de um SEAL.
+
+298
+00:16:00,094 --> 00:16:02,304
+- Foi?
+- Sim.
+
+299
+00:16:02,471 --> 00:16:05,265
+Como assim
+sabe tudo sobre nós?
+
+300
+00:16:05,265 --> 00:16:08,018
+São um bando de idiotas
+arrogantes e egocêntricos,
+
+301
+00:16:08,018 --> 00:16:11,772
+que acham que podem mentir,
+trair e fazer o que quiserem.
+
+302
+00:16:11,939 --> 00:16:13,732
+Eu nunca sairia
+com um SEAL.
+
+303
+00:16:14,316 --> 00:16:15,901
+Como posso ser egocêntrico?
+
+304
+00:16:15,901 --> 00:16:17,945
+Ofereço a minha vida
+à minha pátria.
+
+305
+00:16:17,945 --> 00:16:19,321
+Por quê?
+
+306
+00:16:19,363 --> 00:16:22,658
+É o melhor país do mundo
+e eu faria tudo para protegê-lo.
+
+307
+00:16:22,658 --> 00:16:25,494
+Sinto muito pela sua irmã,
+mas não sou assim.
+
+308
+00:16:27,204 --> 00:16:28,622
+Foi um prazer.
+
+309
+00:16:29,248 --> 00:16:31,500
+- Aonde vai?
+- Para casa.
+
+310
+00:16:31,500 --> 00:16:33,585
+Você disse que não sairia
+com um SEAL.
+
+311
+00:16:34,920 --> 00:16:36,922
+Falei que não me casaria
+com um.
+
+312
+00:16:38,507 --> 00:16:41,552
+Entendi.
+Sendo assim, oi, prazer.
+
+313
+00:16:41,552 --> 00:16:43,554
+- Qual é o seu nome?
+- Taya.
+
+314
+00:16:43,554 --> 00:16:44,930
+Taya?
+
+315
+00:16:44,930 --> 00:16:47,558
+Sou o Chris Kyle.
+Muito prazer.
+
+316
+00:16:49,685 --> 00:16:52,730
+É bem pretensioso achar
+que pode proteger a todos.
+
+317
+00:16:52,730 --> 00:16:54,148
+Não é, Chris?
+
+318
+00:16:54,148 --> 00:16:57,985
+Bem, nossos comandantes
+costumam dizer que...
+
+319
+00:16:59,111 --> 00:17:01,780
+Aqui vão três coisas
+com que nos preocupamos:
+
+320
+00:17:01,780 --> 00:17:03,824
+O ego, bebida e mulheres.
+
+321
+00:17:03,824 --> 00:17:05,242
+Bem...
+
+322
+00:17:05,242 --> 00:17:07,369
+Você deveria
+ficar preocupado.
+
+323
+00:17:10,164 --> 00:17:11,749
+Você é bonita.
+
+324
+00:17:12,291 --> 00:17:14,084
+Muito linda.
+
+325
+00:17:23,177 --> 00:17:24,762
+Eu te ajudo.
+
+326
+00:17:33,020 --> 00:17:36,023
+Não vou para a sua casa,
+então nem pense nisso.
+
+327
+00:17:45,491 --> 00:17:48,744
+Sinta o ar preenchendo
+cada célula do seu corpo.
+
+328
+00:17:50,871 --> 00:17:52,790
+Este é o nosso ritual.
+
+329
+00:17:52,790 --> 00:17:55,876
+Dominando a respiração,
+dominamos as nossas mentes.
+
+330
+00:17:57,044 --> 00:18:00,005
+Puxar o gatilho se tornará
+um esforço inconsciente.
+
+331
+00:18:00,005 --> 00:18:02,967
+Saberão o que estão fazendo,
+mas não controlarão.
+
+332
+00:18:02,967 --> 00:18:06,887
+Ao expirar, encontre
+sua pausa respiratória natural
+
+333
+00:18:06,887 --> 00:18:09,264
+e o intervalo
+entre os batimentos cardíacos.
+
+334
+00:18:25,864 --> 00:18:29,243
+<i>É a Taya, não posso atender.
+Deixe recado e eu retorno.</i>
+
+335
+00:18:29,243 --> 00:18:32,496
+<i>Oi, sou eu de novo.
+O cara em quem vomitou.</i>
+
+336
+00:18:32,871 --> 00:18:35,708
+<i>Achei que talvez não tivesse
+recebido meu recado.</i>
+
+337
+00:18:35,708 --> 00:18:39,086
+<i>Talvez o anterior
+também não, então...</i>
+
+338
+00:18:39,086 --> 00:18:40,879
+<i>- Achei que...
+- Achou o quê?</i>
+
+339
+00:18:40,879 --> 00:18:43,674
+<i>Oi! Como vai?
+Como você está?</i>
+
+340
+00:18:44,675 --> 00:18:46,802
+<i>- Bem.
+- Que bom.</i>
+
+341
+00:18:46,802 --> 00:18:49,722
+<i>E aí, o que tem feito?</i>
+
+342
+00:18:49,930 --> 00:18:52,308
+Nada demais, e você?
+
+343
+00:18:52,308 --> 00:18:55,394
+<i>Nada, só feliz
+por falar com você.</i>
+
+344
+00:19:04,028 --> 00:19:05,738
+Mire no menor
+e erre por pouco.
+
+345
+00:19:05,738 --> 00:19:08,657
+Mire no botão da camisa
+e talvez erre por 5 cm.
+
+346
+00:19:08,657 --> 00:19:11,535
+Mire na camisa
+e pode errar por 50 cm.
+
+347
+00:19:18,500 --> 00:19:20,502
+Melhore
+esses agrupamentos.
+
+348
+00:19:20,502 --> 00:19:22,004
+Sim, senhor.
+
+349
+00:19:22,004 --> 00:19:23,464
+Você consegue.
+
+350
+00:19:25,966 --> 00:19:28,010
+Nada mau.
+O que ganhamos?
+
+351
+00:19:28,010 --> 00:19:30,346
+- Prateleira de cima.
+- Gostei do marrom.
+
+352
+00:19:30,346 --> 00:19:32,139
+- Aqui está.
+- Certo.
+
+353
+00:19:32,139 --> 00:19:34,350
+Obrigado, senhor.
+Tenha um bom dia.
+
+354
+00:19:34,350 --> 00:19:37,269
+- Olá.
+- Legal, fica bem em você.
+
+355
+00:19:37,645 --> 00:19:39,563
+Então, sempre quis
+ser soldado?
+
+356
+00:19:41,065 --> 00:19:43,192
+Não, queria ser caubói.
+
+357
+00:19:43,192 --> 00:19:45,944
+Mas vivi isso e achei
+que meu destino era maior.
+
+358
+00:19:45,944 --> 00:19:48,447
+Então começou a resgatar
+garotas de bares?
+
+359
+00:19:48,697 --> 00:19:50,783
+Acho que resgatei
+aquele bar de você.
+
+360
+00:19:52,910 --> 00:19:54,411
+Gosta de música country?
+
+361
+00:19:54,745 --> 00:19:56,538
+Só quando estou deprimida.
+
+362
+00:19:59,041 --> 00:20:02,503
+- E filhos, quer ter?
+- Um dia.
+
+363
+00:20:03,212 --> 00:20:06,298
+Minha mãe diz
+que não sei escolher homens.
+
+364
+00:20:06,924 --> 00:20:09,176
+Não é algo que se diga
+para uma menina.
+
+365
+00:20:09,551 --> 00:20:11,428
+Minhas escolhas
+dão razão para ela.
+
+366
+00:20:11,679 --> 00:20:13,764
+Essas más escolhas
+te trouxeram aqui.
+
+367
+00:20:14,556 --> 00:20:16,225
+Fizeram de você
+quem você é.
+
+368
+00:20:16,767 --> 00:20:18,435
+E eu gosto de quem você é.
+
+369
+00:20:20,187 --> 00:20:21,605
+Já pensou no que acontece
+
+370
+00:20:21,605 --> 00:20:24,108
+quando há uma pessoa
+no final da sua arma?
+
+371
+00:20:24,441 --> 00:20:27,820
+Só espero fazer meu trabalho
+quando esse dia chegar.
+
+372
+00:20:40,165 --> 00:20:42,209
+Estamos olhando
+para o mesmo alvo?
+
+373
+00:20:42,418 --> 00:20:44,044
+Você está
+maltratando o chão.
+
+374
+00:20:44,044 --> 00:20:45,838
+Tudo bem,
+pode virar paramédico
+
+375
+00:20:45,838 --> 00:20:47,548
+dos que sabem atirar.
+
+376
+00:20:49,300 --> 00:20:50,884
+Merda.
+
+377
+00:21:15,617 --> 00:21:18,579
+- Você está tremendo.
+- Eu sei.
+
+378
+00:21:19,663 --> 00:21:22,166
+- Não temos que fazer isso.
+- Eu quero.
+
+379
+00:21:22,583 --> 00:21:25,210
+Você é o único
+que me assusta.
+
+380
+00:21:36,221 --> 00:21:38,223
+Está fechando
+seu olho não dominante?
+
+381
+00:21:38,515 --> 00:21:41,143
+Se eu fechá-lo,
+não vejo o que mais tem ali.
+
+382
+00:21:41,143 --> 00:21:44,855
+- Só há o alvo para ver.
+- Negativo, há algo ali.
+
+383
+00:21:45,147 --> 00:21:46,565
+De punhos.
+
+384
+00:21:47,775 --> 00:21:51,153
+Flexões.
+Quero 50 bem certinhas.
+
+385
+00:21:58,202 --> 00:22:00,204
+Sou melhor
+quando está respirando.
+
+386
+00:22:04,083 --> 00:22:06,293
+- Meu Deus, Chris.
+- O que foi?
+
+387
+00:22:06,293 --> 00:22:07,711
+Não...
+
+388
+00:22:08,379 --> 00:22:12,758
+<i>Aqui vemos o primeiro avião
+aparentemente vindo do leste.</i>
+
+389
+00:22:12,758 --> 00:22:16,220
+<i>Ele atinge edifício,
+e o fogo e fumaça</i>
+
+390
+00:22:16,220 --> 00:22:18,472
+<i>saem pelo outro lado
+da torre.</i>
+
+391
+00:22:18,764 --> 00:22:23,060
+<i>É difícil dizer exatamente
+qual é o norte e qual é o sul,</i>
+
+392
+00:22:23,060 --> 00:22:25,521
+<i>mas parecem estar
+saindo do norte.</i>
+
+393
+00:22:25,521 --> 00:22:28,482
+<i>E há pouco aconteceram
+estas imagens incríveis.</i>
+
+394
+00:22:28,482 --> 00:22:32,486
+<i>Creio que esta é a primeira.
+A torre sul caindo.</i>
+
+395
+00:22:33,237 --> 00:22:37,700
+<i>Parece uma implosão
+de edifício,</i>
+
+396
+00:22:37,700 --> 00:22:40,494
+<i>mas é uma situação
+incontrolável.</i>
+
+397
+00:22:52,006 --> 00:22:53,590
+Você mal me conhece.
+
+398
+00:22:53,590 --> 00:22:56,468
+Eu te conheço o bastante.
+Você é pra casar, amor.
+
+399
+00:23:01,890 --> 00:23:03,851
+Do que você tem tanto medo?
+
+400
+00:23:03,976 --> 00:23:05,394
+De nada.
+
+401
+00:23:07,146 --> 00:23:10,566
+De tudo.
+E se não der certo?
+
+402
+00:23:12,443 --> 00:23:15,279
+Vamos nos casar
+e construir uma família.
+
+403
+00:23:15,863 --> 00:23:18,407
+Você já planejou tudo,
+não é?
+
+404
+00:23:19,408 --> 00:23:20,951
+Estou pronto.
+
+405
+00:23:21,744 --> 00:23:23,203
+Eu te amo.
+
+406
+00:23:25,539 --> 00:23:28,208
+Precisa de um anel
+se quer falar sério assim.
+
+407
+00:23:28,208 --> 00:23:29,627
+Está bem.
+
+408
+00:23:39,303 --> 00:23:42,514
+Senhoras e senhores,
+o sr. e a sra. Chris Kyle.
+
+409
+00:23:52,858 --> 00:23:54,693
+O que é isso
+no seu pescoço?
+
+410
+00:23:55,152 --> 00:23:57,529
+Tem uma tinta verde
+no seu pescoço.
+
+411
+00:23:57,529 --> 00:23:59,365
+Acredita se eu disser...
+
+412
+00:23:59,365 --> 00:24:02,284
+que estava todo verde
+duas horas atrás?
+
+413
+00:24:02,284 --> 00:24:04,036
+O quê?
+
+414
+00:24:04,370 --> 00:24:05,829
+Faz parte do ritual.
+
+415
+00:24:05,829 --> 00:24:08,374
+- Meu Deus...
+- Venha cá.
+
+416
+00:24:11,001 --> 00:24:12,461
+Um brinde a isso.
+
+417
+00:24:12,920 --> 00:24:14,421
+E aí, chefe?
+
+418
+00:24:15,089 --> 00:24:16,799
+Acabei de receber
+o chamado.
+
+419
+00:24:17,007 --> 00:24:19,635
+<i>- Está marcado!
+- Hooyah!</i>
+
+420
+00:24:20,302 --> 00:24:21,804
+Doses!
+
+421
+00:24:21,804 --> 00:24:23,847
+Doses pra esquentar.
+
+422
+00:24:34,650 --> 00:24:37,778
+- Serão seis semanas, amor.
+- Estou com tanto medo...
+
+423
+00:24:37,778 --> 00:24:40,990
+Não precisa ter medo,
+estava nos planos.
+
+424
+00:24:41,699 --> 00:24:44,952
+Parece que seu coração
+vai sair pela boca.
+
+425
+00:24:46,161 --> 00:24:48,831
+É só porque estou indo
+para a guerra.
+
+426
+00:25:03,262 --> 00:25:05,180
+1ª EXPEDIÇÃO
+
+427
+00:25:05,180 --> 00:25:09,059
+Bem-vindos a Falluja.
+O faroeste do Oriente Médio.
+
+428
+00:25:09,059 --> 00:25:10,936
+A AQI colocou
+suas cabeças a prêmio
+
+429
+00:25:10,978 --> 00:25:12,730
+e agora extremistas
+do mundo todo
+
+430
+00:25:12,730 --> 00:25:15,232
+se encaminham para cá
+de olho na recompensa.
+
+431
+00:25:15,232 --> 00:25:16,650
+Snipers...
+
+432
+00:25:17,109 --> 00:25:19,361
+cada um resguardará
+um fuzileiro.
+
+433
+00:25:19,361 --> 00:25:21,113
+Ficarão postados
+nos prédios,
+
+434
+00:25:21,113 --> 00:25:23,991
+cobrindo os fuzileiros
+que irão de porta a porta.
+
+435
+00:25:23,991 --> 00:25:27,077
+Sua missão é proteger
+esses fuzileiros a todo custo.
+
+436
+00:25:27,077 --> 00:25:29,246
+A cidade foi evacuada.
+
+437
+00:25:29,246 --> 00:25:32,291
+Homens de idade militar
+que continuarem aqui...
+
+438
+00:25:32,750 --> 00:25:34,376
+estão aqui para matá-los.
+
+439
+00:25:34,501 --> 00:25:37,921
+Vamos proteger os rapazes
+e voltar logo para casa.
+
+440
+00:25:55,522 --> 00:25:57,483
+Saiam, saiam.
+
+441
+00:25:59,485 --> 00:26:01,945
+Mantenha a cabeça baixa,
+texano.
+
+442
+00:26:02,363 --> 00:26:04,823
+Esses turcos
+também têm snipers.
+
+443
+00:26:04,948 --> 00:26:07,034
+Snipers não miram
+na cabeça.
+
+444
+00:26:09,703 --> 00:26:12,456
+Eles têm um sniper
+que acerta tiros na cabeça
+
+445
+00:26:12,456 --> 00:26:14,416
+a mais de 500 m
+de distância.
+
+446
+00:26:18,379 --> 00:26:20,714
+Chamam-no de Mustafa.
+
+447
+00:26:21,757 --> 00:26:23,717
+É das Olimpíadas.
+
+448
+00:26:24,009 --> 00:26:26,387
+Tem tiro de precisão
+nas Olimpíadas agora?
+
+449
+00:26:40,567 --> 00:26:44,279
+Vejo uma mulher e uma criança
+a 200 metros de distância
+
+450
+00:26:44,279 --> 00:26:46,115
+andando em direção
+ao comboio.
+
+451
+00:26:50,661 --> 00:26:53,372
+Ela não mexe os braços,
+está carregando algo.
+
+452
+00:27:02,756 --> 00:27:06,385
+Ela tem uma granada RKG
+e está dando para a criança.
+
+453
+00:27:06,385 --> 00:27:08,220
+<i>Disse uma mulher
+e uma criança?</i>
+
+454
+00:27:08,971 --> 00:27:11,682
+<i>- Está vendo? Pode confirmar?
+- Negativo.</i>
+
+455
+00:27:11,682 --> 00:27:13,809
+<i>Você sabe o protocolo.
+A decisão é sua.</i>
+
+456
+00:27:13,809 --> 00:27:17,521
+Se você estiver enganado,
+vai apodrecer na prisão militar.
+
+457
+00:27:35,539 --> 00:27:37,916
+Caramba, isso foi brutal.
+
+458
+00:28:00,606 --> 00:28:02,608
+Que vadia ruim.
+
+459
+00:28:02,608 --> 00:28:04,485
+Levantem-se,
+continuem andando.
+
+460
+00:28:05,569 --> 00:28:08,113
+<i>Bons tiros, texano.
+Decisão acertada.</i>
+
+461
+00:28:08,113 --> 00:28:10,074
+<i>De acordo, boa cobertura.</i>
+
+462
+00:28:10,074 --> 00:28:12,493
+- Ouviu isso, cara?
+- Não encoste em mim.
+
+463
+00:28:39,144 --> 00:28:41,939
+- Cadê todo mundo?
+- Coçando o saco.
+
+464
+00:28:41,939 --> 00:28:44,316
+Ninguém mais aguenta
+esses turcos.
+
+465
+00:28:44,316 --> 00:28:46,110
+Por que você
+não está em combate?
+
+466
+00:28:46,735 --> 00:28:50,614
+- Estou com diarréia.
+- De tanto ler gibi?
+
+467
+00:28:50,990 --> 00:28:53,117
+É história em quadrinhos,
+cara.
+
+468
+00:28:53,283 --> 00:28:54,952
+É bem diferente.
+
+469
+00:28:56,829 --> 00:28:58,580
+Soube que você estava a toda.
+
+470
+00:28:58,580 --> 00:29:01,292
+O Marc Lee disse
+que você perdeu o cabaço.
+
+471
+00:29:01,292 --> 00:29:02,710
+É verdade?
+
+472
+00:29:03,002 --> 00:29:06,588
+Havia um garoto
+que mal tinha pelo no saco.
+
+473
+00:29:06,588 --> 00:29:08,632
+A mãe entregou
+uma granada pra ele.
+
+474
+00:29:09,174 --> 00:29:11,844
+Mandou ele matar
+fuzileiros.
+
+475
+00:29:17,099 --> 00:29:19,560
+Uma maldade
+como nunca vi antes.
+
+476
+00:29:20,060 --> 00:29:21,770
+Veja, cara...
+
+477
+00:29:22,146 --> 00:29:25,274
+O menino poderia ter matado
+uns dez dos nossos.
+
+478
+00:29:25,274 --> 00:29:26,692
+Sim, mas eu o matei.
+
+479
+00:29:26,692 --> 00:29:29,278
+Você fez o seu trabalho.
+Conversa encerrada.
+
+480
+00:29:29,570 --> 00:29:32,823
+Só não era como eu imaginava
+a minha primeira morte.
+
+481
+00:29:49,506 --> 00:29:51,884
+Puta merda, o que foi isso?
+
+482
+00:29:52,509 --> 00:29:54,887
+Foi a sua cobertura,
+Einstein.
+
+483
+00:29:55,137 --> 00:29:56,764
+Depois você agradece a ele.
+
+484
+00:29:59,850 --> 00:30:01,310
+Avante.
+
+485
+00:30:02,102 --> 00:30:03,646
+Vamos.
+
+486
+00:30:04,188 --> 00:30:05,648
+Depressa.
+
+487
+00:30:18,160 --> 00:30:20,162
+Contato à frente,
+dispersar!
+
+488
+00:30:29,964 --> 00:30:31,799
+Cessar fogo!
+
+489
+00:32:09,104 --> 00:32:10,564
+<i>Salaam Aleikum.</i>
+
+490
+00:32:24,411 --> 00:32:26,956
+Fiquem de olho
+nos terraços.
+
+491
+00:32:27,331 --> 00:32:28,791
+Derrube a porta.
+
+492
+00:32:46,225 --> 00:32:49,103
+<i>Homem abatido,
+enviem um paramédico.</i>
+
+493
+00:32:50,062 --> 00:32:51,605
+<i>Sniper inimigo localizado.</i>
+
+494
+00:32:51,605 --> 00:32:56,151
+<i>Coordenada aproximada:
+155604.</i>
+
+495
+00:33:03,993 --> 00:33:05,786
+Que cheiro de mijo.
+
+496
+00:33:07,121 --> 00:33:09,957
+Você nos cobriu bem,
+deu uns tiros corajosos.
+
+497
+00:33:10,499 --> 00:33:13,210
+- Foram justificados, certo?
+- Foram, sim.
+
+498
+00:33:13,752 --> 00:33:16,171
+Aquele maldito sniper
+nos pegou pelas costas.
+
+499
+00:33:16,171 --> 00:33:18,882
+Já revi a segurança.
+Não acontecerá mais.
+
+500
+00:33:18,882 --> 00:33:20,467
+É bom que não aconteça.
+
+501
+00:33:20,467 --> 00:33:22,344
+Há um ponto de tensão
+a 400 metros.
+
+502
+00:33:22,344 --> 00:33:24,680
+- Certo.
+- Quero voltar vivo para casa.
+
+503
+00:33:24,680 --> 00:33:27,266
+- Quantos você pegou?
+- Peguei seis...
+
+504
+00:33:27,266 --> 00:33:29,268
+Na verdade, peguei oito.
+
+505
+00:33:29,643 --> 00:33:31,312
+Mas resgataram dois.
+
+506
+00:33:31,437 --> 00:33:34,231
+- Pegou seis?
+- Qual é o problema?
+
+507
+00:33:34,231 --> 00:33:36,608
+Você pegou mais
+do que o total dos outros.
+
+508
+00:33:36,608 --> 00:33:38,277
+Mas eles pegaram um nosso.
+
+509
+00:33:38,277 --> 00:33:40,279
+Você não pode atirar
+no que não vê.
+
+510
+00:33:42,364 --> 00:33:44,658
+A esposa falou
+que ele levava um Alcorão.
+
+511
+00:33:44,658 --> 00:33:46,702
+Não sei como é um Alcorão.
+
+512
+00:33:46,702 --> 00:33:48,787
+Mas posso te dizer
+o que ele carregava.
+
+513
+00:33:48,787 --> 00:33:51,332
+Era feito de metal,
+disparava calibre 762
+
+514
+00:33:51,332 --> 00:33:53,167
+e era igualzinho
+a uma AK-47.
+
+515
+00:33:53,167 --> 00:33:55,044
+Você me diz o que era.
+
+516
+00:34:06,513 --> 00:34:07,973
+Lá vem ele.
+
+517
+00:34:07,973 --> 00:34:09,850
+Senhoras e sem-rolas,
+atenção.
+
+518
+00:34:09,850 --> 00:34:13,103
+Temos um mito entre nós.
+Uma salva de palmas para ele.
+
+519
+00:34:13,896 --> 00:34:16,690
+Que orgulho tê-lo de volta,
+rapaz.
+
+520
+00:34:16,690 --> 00:34:19,652
+Dizem por aí
+que este nosso mito
+
+521
+00:34:19,652 --> 00:34:22,613
+consegue matar 100 homens
+numa sentada só.
+
+522
+00:34:22,613 --> 00:34:25,240
+Não era assim...
+Como é, mesmo?
+
+523
+00:34:25,240 --> 00:34:27,868
+Ele dá só uma sentada
+em cada homem.
+
+524
+00:34:27,868 --> 00:34:30,079
+Ele já sentou
+em 100 homens...
+
+525
+00:34:30,329 --> 00:34:31,747
+e continua só.
+
+526
+00:34:32,373 --> 00:34:33,832
+Droga.
+
+527
+00:34:35,709 --> 00:34:37,753
+- Caramba, cara.
+- Que merda.
+
+528
+00:34:37,753 --> 00:34:40,005
+Guerra de comida?
+Qual é?
+
+529
+00:34:40,923 --> 00:34:42,925
+É o único jeito
+de calar a sua boca.
+
+530
+00:34:45,552 --> 00:34:47,554
+<i>Já matou alguém?</i>
+
+531
+00:34:47,972 --> 00:34:52,059
+Não é assim que deve ser
+uma ligação para casa, amor.
+
+532
+00:34:52,309 --> 00:34:55,270
+Não seja esquisito comigo,
+sério.
+
+533
+00:34:55,646 --> 00:34:57,648
+Quero que me conte tudo.
+
+534
+00:34:58,232 --> 00:35:01,527
+Algumas coisas não podem
+ser ditas pelo telefone.
+
+535
+00:35:01,777 --> 00:35:03,320
+Você me engravidou.
+
+536
+00:35:03,320 --> 00:35:06,657
+Estou aqui sozinha,
+montando um berço,
+
+537
+00:35:06,657 --> 00:35:08,409
+e você não pode
+falar comigo?
+
+538
+00:35:08,784 --> 00:35:10,703
+Esse é o seu plano?
+
+539
+00:35:12,454 --> 00:35:14,665
+<i>Vocês já estão
+acabando por aí?</i>
+
+540
+00:35:15,457 --> 00:35:18,961
+Só penso no vestidinho rosa
+que você usou na lua de mel.
+
+541
+00:35:20,671 --> 00:35:22,881
+Certo, aquilo era
+uma camisola.
+
+542
+00:35:23,299 --> 00:35:24,758
+<i>Isso.</i>
+
+543
+00:35:25,843 --> 00:35:28,262
+E três dias...
+
+544
+00:35:28,262 --> 00:35:31,265
+Três dias não é
+uma lua de mel.
+
+545
+00:35:31,598 --> 00:35:33,309
+Foram belos três dias.
+
+546
+00:35:38,022 --> 00:35:40,190
+Estou com muitas saudades.
+
+547
+00:35:40,357 --> 00:35:41,900
+<i>Eu também.</i>
+
+548
+00:35:42,526 --> 00:35:44,653
+Quer que eu fale
+besteira pra você?
+
+549
+00:35:44,653 --> 00:35:48,240
+<i>Quero.
+Espere um segundo.</i>
+
+550
+00:35:50,784 --> 00:35:52,453
+Pronto, pronto.
+
+551
+00:35:53,037 --> 00:35:56,165
+Seguro uma arma e um telefone,
+não sei se vai dar certo.
+
+552
+00:35:56,165 --> 00:35:59,585
+Vai ter que decidir
+o que é mais importante, amor.
+
+553
+00:36:00,669 --> 00:36:03,047
+Uma grávida com tesão...
+
+554
+00:36:03,172 --> 00:36:06,342
+<i>Gorda e com tesão.
+Nojento pra caramba.</i>
+
+555
+00:36:06,675 --> 00:36:09,678
+Até com 200 kg
+eu te comeria.
+
+556
+00:36:10,137 --> 00:36:12,014
+Que romântico.
+
+557
+00:36:12,681 --> 00:36:14,183
+<i>Como está o meu menino?</i>
+
+558
+00:36:14,725 --> 00:36:16,560
+Ninguém disse que é menino.
+
+559
+00:36:17,144 --> 00:36:19,563
+Mal posso esperar
+para te ver junto com ele.
+
+560
+00:36:20,147 --> 00:36:21,607
+<i>Como você sabe?</i>
+
+561
+00:36:23,317 --> 00:36:24,985
+Simplesmente sei.
+
+562
+00:36:25,653 --> 00:36:27,154
+Eu pressinto.
+
+563
+00:36:27,613 --> 00:36:30,783
+<i>- Espero que tenha razão.
+- Eu tenho.</i>
+
+564
+00:36:30,783 --> 00:36:32,993
+BAIXAS MILITARES
+AMERICANAS NO IRAQUE
+
+565
+00:36:34,036 --> 00:36:36,288
+Seu pai falou com você?
+
+566
+00:36:36,288 --> 00:36:39,083
+<i>- Não tenho visto meu e-mail.
+- Merda.</i>
+
+567
+00:36:39,541 --> 00:36:42,670
+<i>- Ligue para ele, está bem?
+- O que houve?</i>
+
+568
+00:36:42,670 --> 00:36:45,047
+Sou tão egoísta
+que nem pensei...
+
+569
+00:36:45,047 --> 00:36:46,507
+Taya, o que houve?
+
+570
+00:36:46,757 --> 00:36:48,175
+<i>O que aconteceu?</i>
+
+571
+00:36:49,677 --> 00:36:51,679
+O seu irmão foi convocado.
+
+572
+00:36:51,887 --> 00:36:53,472
+E o curso de paraquedismo?
+
+573
+00:36:53,472 --> 00:36:56,767
+Ele não entrou.
+Desligue e fale com o seu pai.
+
+574
+00:36:56,767 --> 00:36:59,436
+Convocado para quê?
+Onde ele está?
+
+575
+00:37:00,270 --> 00:37:01,730
+<i>Aí.</i>
+
+576
+00:37:03,107 --> 00:37:04,817
+<i>Está indo para o Iraque.</i>
+
+577
+00:37:05,609 --> 00:37:07,111
+<i>Sinto muito, querido.</i>
+
+578
+00:37:11,907 --> 00:37:13,826
+O homem segurando
+a lâmina...
+
+579
+00:37:13,951 --> 00:37:16,829
+é um militante jordaniano
+financiado por Bin Laden.
+
+580
+00:37:16,829 --> 00:37:20,082
+Foi treinado por Bin Laden,
+é leal a Bin Laden.
+
+581
+00:37:20,249 --> 00:37:21,709
+O seu nome...
+
+582
+00:37:22,084 --> 00:37:23,585
+é Zarqawi.
+
+583
+00:37:23,961 --> 00:37:28,632
+Este canalha agora comanda
+a Al-Qaeda Iraque.
+
+584
+00:37:29,925 --> 00:37:33,429
+Seu exército mercenário,
+a AQI, tem 5 mil homens.
+
+585
+00:37:33,429 --> 00:37:35,889
+Estes caras não são
+como os que vemos por aí.
+
+586
+00:37:35,889 --> 00:37:39,351
+São bem treinados,
+bem pagos, e agora...
+
+587
+00:37:39,351 --> 00:37:41,437
+estão efetuando
+a maior incursão urbana
+
+588
+00:37:41,437 --> 00:37:42,896
+desde o Vietnam.
+
+589
+00:37:43,522 --> 00:37:47,943
+Zarqawi e seus tenentes
+são a nossa prioridade.
+
+590
+00:37:47,943 --> 00:37:50,863
+Só há uma maneira
+de encontrá-los.
+
+591
+00:37:50,863 --> 00:37:53,866
+Ir porta a porta,
+casa a casa,
+
+592
+00:37:53,866 --> 00:37:58,621
+até acharmos eles ou alguém
+que nos diga o paradeiro deles.
+
+593
+00:37:58,829 --> 00:38:02,958
+Por isso vamos ter de verificar
+10 prédios por hora.
+
+594
+00:38:03,167 --> 00:38:06,086
+Eu sei que é muito,
+que é pesado,
+
+595
+00:38:06,086 --> 00:38:09,298
+mas seremos auxiliados
+pelo apoio aéreo.
+
+596
+00:38:09,298 --> 00:38:13,260
+É o nosso alvo mais importante
+até o momento.
+
+597
+00:38:13,260 --> 00:38:17,556
+Quero o desgraçado morto
+ou capturado, entendido?
+
+598
+00:38:18,515 --> 00:38:20,184
+Alguma pergunta?
+
+599
+00:38:24,396 --> 00:38:26,857
+Se os fuzileiros continuarem
+com essa pressa,
+
+600
+00:38:26,857 --> 00:38:28,567
+vão acabar
+levando uma surra.
+
+601
+00:38:28,567 --> 00:38:31,070
+São fuzileiros navais,
+não têm o nosso treino.
+
+602
+00:38:31,070 --> 00:38:34,198
+- Eram civis 6 meses atrás.
+- Então vamos ensiná-los.
+
+603
+00:38:34,198 --> 00:38:36,492
+Eu digo o que fazer,
+lidero as unidades.
+
+604
+00:38:36,492 --> 00:38:38,494
+Não dá, precisamos
+da sua cobertura.
+
+605
+00:38:38,494 --> 00:38:40,120
+Se eu estiver nas ruas...
+
+606
+00:38:40,120 --> 00:38:42,915
+Casa a casa é o trabalho
+mais letal daqui, cara.
+
+607
+00:38:43,123 --> 00:38:45,167
+Você tem algum
+complexo de messias?
+
+608
+00:38:45,167 --> 00:38:48,253
+Só quero pegar os vilões,
+mas eu só atiro no que vejo.
+
+609
+00:38:48,253 --> 00:38:51,882
+Todos esses caras te conhecem
+e sentem-se imbatíveis com você.
+
+610
+00:38:51,882 --> 00:38:54,301
+- Mas não são.
+- São o que pensam ser.
+
+611
+00:38:54,760 --> 00:38:56,303
+Que tal ficar
+com o seu rifle
+
+612
+00:38:56,303 --> 00:38:58,514
+e deixar os cães
+farejarem o Zarqawi?
+
+613
+00:39:09,108 --> 00:39:11,860
+Você falou que a AQI tem
+um sniper nas Olimpíadas,
+
+614
+00:39:11,860 --> 00:39:14,947
+mas há três edições
+o Iraque não se classifica.
+
+615
+00:39:15,155 --> 00:39:18,158
+É que o Mustafa
+não é iraquiano.
+
+616
+00:39:20,077 --> 00:39:21,787
+É sírio.
+
+617
+00:39:30,879 --> 00:39:32,339
+<i>Abra a porta.</i>
+
+618
+00:39:33,090 --> 00:39:35,592
+Quando entrarem,
+não enxergarei nada.
+
+619
+00:39:35,592 --> 00:39:37,970
+Vão devagar
+e atentem-se nos alvos.
+
+620
+00:39:37,970 --> 00:39:40,180
+<i>- Entendido.
+- Explosão!</i>
+
+621
+00:39:41,140 --> 00:39:42,641
+Vão, vão!
+
+622
+00:39:48,856 --> 00:39:50,274
+<i>Verifiquem o outro quarto.</i>
+
+623
+00:39:50,983 --> 00:39:52,484
+<i>Homem abatido!</i>
+
+624
+00:39:54,153 --> 00:39:55,779
+<i>Paramédicos, agora!</i>
+
+625
+00:40:00,409 --> 00:40:01,827
+Que se dane.
+
+626
+00:40:02,953 --> 00:40:05,372
+Vou limpar casas
+com os fuzileiros.
+
+627
+00:40:06,040 --> 00:40:09,376
+- Você vem junto?
+- Claro que não vou.
+
+628
+00:40:09,710 --> 00:40:13,505
+Gosto da minha vida,
+quero chegar em casa vivo.
+
+629
+00:40:13,505 --> 00:40:16,091
+Não é o meu trabalho
+arrombar portas.
+
+630
+00:40:16,091 --> 00:40:19,011
+Eles estão na profissão errada.
+Eu não vou fazer isso.
+
+631
+00:40:19,011 --> 00:40:21,305
+Certo, se eu não te vir
+lá em baixo...
+
+632
+00:40:21,930 --> 00:40:24,224
+certifique-se
+de que eu não o verei mais.
+
+633
+00:40:31,023 --> 00:40:32,858
+Importam-se
+de eu me juntar?
+
+634
+00:40:33,067 --> 00:40:35,152
+Qualquer SEAL é bem-vindo.
+
+635
+00:40:36,362 --> 00:40:39,365
+Você é o tal Mito,
+com 24 mortes confirmadas?
+
+636
+00:40:39,365 --> 00:40:42,451
+- Bem, já perdi a conta.
+- Isso é incrível.
+
+637
+00:40:42,451 --> 00:40:45,037
+Um cara de outra companhia
+está te alcançando.
+
+638
+00:40:45,037 --> 00:40:47,998
+Todos aqui são treinados,
+mas sei umas coisas...
+
+639
+00:40:47,998 --> 00:40:51,126
+Posso ensiná-los umas coisas
+que nos manterão vivos.
+
+640
+00:40:51,418 --> 00:40:53,629
+- Está bem.
+- Vá em frente.
+
+641
+00:40:58,050 --> 00:41:00,386
+- O que isso significa?
+- Arrombar a porta.
+
+642
+00:41:06,308 --> 00:41:09,144
+- Em movimento.
+- Para o chão, já!
+
+643
+00:41:09,144 --> 00:41:11,105
+Ponha essa bunda no chão!
+
+644
+00:41:11,772 --> 00:41:14,108
+- Ele não entende.
+- No chão.
+
+645
+00:41:14,108 --> 00:41:16,944
+Por que está aqui?
+Esta área foi evacuada.
+
+646
+00:41:16,944 --> 00:41:19,530
+- Por que continua aqui?
+- Sheikh Al-Obodi!
+
+647
+00:41:19,530 --> 00:41:21,240
+Sheikh Al quem?
+Quem é você?
+
+648
+00:41:21,240 --> 00:41:23,951
+- Esta é a minha casa.
+- Não dou a mínima!
+
+649
+00:41:23,951 --> 00:41:25,411
+Estamos em zona de guerra.
+
+650
+00:41:25,411 --> 00:41:28,080
+- Senhor, por favor...
+- Ponham o menino no chão.
+
+651
+00:41:28,080 --> 00:41:29,665
+Mexam-se.
+
+652
+00:41:29,957 --> 00:41:31,667
+Encontrei as vadias
+no armário.
+
+653
+00:41:31,667 --> 00:41:34,962
+- Você é meu convidado.
+- Quantos mais estão aqui?
+
+654
+00:41:35,004 --> 00:41:36,463
+Mande os soldados entrarem.
+
+655
+00:41:36,463 --> 00:41:39,508
+Esse turco só nos quer aqui
+para nos explodir.
+
+656
+00:41:39,508 --> 00:41:42,594
+- Veja se não está de colete.
+- Ele sabe se falarmos.
+
+657
+00:41:42,594 --> 00:41:45,097
+Quem?
+Quem é que sabe?
+
+658
+00:41:45,097 --> 00:41:47,224
+- Por favor, entrem.
+- Quem é que sabe?
+
+659
+00:41:47,224 --> 00:41:48,684
+Quem?
+
+660
+00:41:49,685 --> 00:41:51,937
+Ele vem e...
+
+661
+00:41:54,523 --> 00:41:57,109
+- Muito mau, por favor...
+- O alvo está seguro?
+
+662
+00:41:57,109 --> 00:41:58,527
+- Alvo seguro.
+- Tragam-no.
+
+663
+00:41:58,527 --> 00:42:00,779
+Cabeça no chão
+e mãos para trás.
+
+664
+00:42:01,280 --> 00:42:03,741
+Agora, mexa-se!
+
+665
+00:42:03,741 --> 00:42:05,492
+Você não fala,
+nós é que falamos.
+
+666
+00:42:08,996 --> 00:42:10,664
+Levem-no para a outra sala.
+
+667
+00:42:17,004 --> 00:42:20,215
+Ele invade a casa de quem fala
+com soldados americanos e...
+
+668
+00:42:20,215 --> 00:42:21,634
+Ele quem?
+
+669
+00:42:26,055 --> 00:42:28,474
+Chamam-no de Açougueiro,
+"O Desesperado",
+
+670
+00:42:28,474 --> 00:42:30,726
+"Filho de Satã",
+"Filho do Diabo".
+
+671
+00:42:30,726 --> 00:42:32,394
+É algum tipo de capanga?
+
+672
+00:42:34,271 --> 00:42:36,607
+- É um capanga.
+- Soldado no. 1 de Zarqawi.
+
+673
+00:42:36,607 --> 00:42:38,025
+Zarqawi?
+
+674
+00:42:38,233 --> 00:42:40,486
+Queremos saber onde ele está.
+Você sabe?
+
+675
+00:42:40,486 --> 00:42:42,363
+Fale agora onde ele está.
+
+676
+00:42:42,363 --> 00:42:43,822
+Como o pegamos?
+
+677
+00:42:43,822 --> 00:42:46,283
+Tem informações
+para nos dar sobre ele?
+
+678
+00:42:46,492 --> 00:42:47,910
+Fale, agora!
+
+679
+00:42:48,285 --> 00:42:50,537
+Achem o Açougueiro
+e encontrarão Zarqawi.
+
+680
+00:42:50,537 --> 00:42:52,164
+E como o encontramos?
+
+681
+00:42:54,667 --> 00:42:57,670
+Olhe para mim quando eu falar.
+Onde o encontramos?
+
+682
+00:42:59,755 --> 00:43:02,758
+Tem de compreender os riscos.
+Ele pede dinheiro.
+
+683
+00:43:06,053 --> 00:43:08,931
+- US$ 100 mil.
+- Precisa de US$ 100 mil?
+
+684
+00:43:08,931 --> 00:43:11,141
+Não tenho provas
+de que esse cara existe.
+
+685
+00:43:20,275 --> 00:43:21,652
+Olá.
+
+686
+00:43:27,283 --> 00:43:28,742
+Aqui está a prova.
+
+687
+00:43:28,742 --> 00:43:31,704
+Quero mesmo ajudá-lo,
+mas preciso de alguma coisa.
+
+688
+00:43:31,704 --> 00:43:34,915
+Telefone, endereço, nomes,
+precisa me dar algo.
+
+689
+00:43:35,916 --> 00:43:38,294
+Senhor, o 1º pelotão
+está encurralado.
+
+690
+00:43:38,294 --> 00:43:39,712
+Dispersar!
+
+691
+00:43:39,712 --> 00:43:42,589
+Olhe para mim quando
+eu falar com você. Olhe.
+
+692
+00:43:42,881 --> 00:43:45,676
+Preciso de alguma coisa.
+Eu posso ajudá-lo, Sheikh.
+
+693
+00:43:45,676 --> 00:43:47,886
+Me dê um nome
+e nós cuidaremos disso.
+
+694
+00:43:47,886 --> 00:43:50,764
+Você tem minha palavra,
+garantiremos a sua segurança.
+
+695
+00:43:53,976 --> 00:43:57,688
+- Amir Khalaf Fanus?
+- O suposto nome do Açougueiro.
+
+696
+00:43:58,564 --> 00:44:01,608
+Acreditamos que o Açougueiro
+é braço direito de Zarqawi.
+
+697
+00:44:01,900 --> 00:44:03,319
+Este é o cara.
+
+698
+00:44:03,569 --> 00:44:06,697
+Mas não sabem o nome real,
+senão estaria escrito aí.
+
+699
+00:44:07,698 --> 00:44:09,783
+Temos vários pseudônimos.
+
+700
+00:44:10,492 --> 00:44:12,828
+Se for mesmo Fanus...
+
+701
+00:44:14,163 --> 00:44:15,623
+vamos visitar o Sheikh.
+
+702
+00:44:15,623 --> 00:44:18,208
+Ele pede 100 mil.
+Em dinheiro.
+
+703
+00:44:18,208 --> 00:44:20,628
+E se entregar o Açougueiro,
+nós pagaremos.
+
+704
+00:44:20,919 --> 00:44:22,755
+Agente Snead,
+Agência de Defesa.
+
+705
+00:44:22,755 --> 00:44:26,425
+Preciso que pesquisem
+o nome "Amir Khalaf Fanus".
+
+706
+00:44:26,717 --> 00:44:28,135
+Eu espero.
+
+707
+00:44:28,510 --> 00:44:31,221
+No retorno, o 3º pelotão
+pode ficar na segurança.
+
+708
+00:44:31,221 --> 00:44:34,808
+O comando contrata empresas
+para entrega de dinheiro.
+
+709
+00:44:35,225 --> 00:44:36,685
+Pois não, o que descobriu?
+
+710
+00:44:40,856 --> 00:44:43,108
+Certo, entendido.
+
+711
+00:44:44,818 --> 00:44:46,612
+Vamos visitar o Sheikh.
+
+712
+00:45:03,253 --> 00:45:04,672
+Atropelado.
+
+713
+00:45:05,047 --> 00:45:07,800
+Sabia que o Açougueiro
+é capanga do Zarqawi?
+
+714
+00:45:07,800 --> 00:45:10,594
+Dizem que sua arma favorita
+é uma furadeira.
+
+715
+00:45:11,637 --> 00:45:14,515
+Eu fiz Seminário
+antes de me alistar na Marinha.
+
+716
+00:45:15,808 --> 00:45:17,643
+Por pouco não virei padre.
+
+717
+00:45:17,935 --> 00:45:19,561
+E por que não virou?
+
+718
+00:45:21,105 --> 00:45:22,940
+Gosto de apostar.
+
+719
+00:45:23,565 --> 00:45:25,526
+Sou louco pelos dados.
+
+720
+00:45:26,193 --> 00:45:28,028
+Esse padre é dos meus.
+
+721
+00:45:43,294 --> 00:45:45,087
+Está podendo, hein?
+
+722
+00:45:45,087 --> 00:45:47,339
+Ninguém te contou?
+Eu sou o Mito.
+
+723
+00:45:48,590 --> 00:45:50,009
+Oi, amor.
+
+724
+00:45:50,009 --> 00:45:52,845
+Você tinha razão,
+é um menino.
+
+725
+00:45:53,137 --> 00:45:54,555
+O quê?
+
+726
+00:45:55,806 --> 00:45:57,266
+É um menino.
+
+727
+00:45:57,683 --> 00:45:59,101
+É menino?
+
+728
+00:46:00,477 --> 00:46:03,105
+Isso aí, cara.
+Parabéns.
+
+729
+00:46:17,995 --> 00:46:19,455
+Chris?
+
+730
+00:46:19,997 --> 00:46:22,291
+Peguem o dinheiro
+e abriguem-se.
+
+731
+00:46:30,299 --> 00:46:32,801
+Vai, pegue a mala!
+
+732
+00:46:35,888 --> 00:46:37,306
+Chris.
+
+733
+00:46:42,144 --> 00:46:44,813
+Vamos logo, temos que sair.
+Depois os buscamos.
+
+734
+00:46:48,400 --> 00:46:49,818
+Amor?
+
+735
+00:46:49,818 --> 00:46:51,862
+- Ouvi um tiro.
+- Confere.
+
+736
+00:46:51,862 --> 00:46:53,489
+Considerando o ângulo...
+
+737
+00:46:53,948 --> 00:46:55,741
+Deve estar a uns 300 m.
+
+738
+00:46:55,741 --> 00:46:57,201
+Meu Deus.
+
+739
+00:47:00,579 --> 00:47:01,997
+Consegue vê-lo?
+
+740
+00:47:01,997 --> 00:47:03,874
+O inimigo está numa janela.
+
+741
+00:47:05,167 --> 00:47:06,585
+Merda.
+
+742
+00:47:06,585 --> 00:47:09,672
+Estou vendo o Açougueiro,
+está levando o filho do Sheikh.
+
+743
+00:47:17,179 --> 00:47:18,889
+Requisito reforços.
+
+744
+00:47:18,889 --> 00:47:20,724
+Estamos encurralados
+por um sniper
+
+745
+00:47:20,724 --> 00:47:22,476
+e próximos
+a um alvo valioso.
+
+746
+00:47:22,476 --> 00:47:26,271
+Coordenada 04536236.
+Câmbio.
+
+747
+00:47:26,271 --> 00:47:27,690
+Lançarei fumaça.
+
+748
+00:47:27,690 --> 00:47:29,942
+Proteja o edifício
+que vou para o telhado.
+
+749
+00:47:33,779 --> 00:47:35,239
+Espere.
+
+750
+00:47:40,744 --> 00:47:43,163
+Espere.
+
+751
+00:47:44,915 --> 00:47:46,292
+Vai!
+
+752
+00:47:51,672 --> 00:47:54,133
+Meu Deus...
+
+753
+00:49:19,093 --> 00:49:21,637
+Falem com eles
+e com eles morrerão.
+
+754
+00:49:42,533 --> 00:49:44,785
+Apareça, filho da mãe!
+
+755
+00:49:45,536 --> 00:49:46,954
+Vá se ferrar!
+
+756
+00:49:57,506 --> 00:49:59,842
+<i>Jesus Cristo, que bagunça.</i>
+
+757
+00:50:00,301 --> 00:50:02,511
+Você é burro
+pra cacete, sabia?
+
+758
+00:50:02,511 --> 00:50:03,929
+Onde estava com a cabeça?
+
+759
+00:50:03,929 --> 00:50:06,432
+Você fracassou na defesa
+do campo de batalha.
+
+760
+00:50:07,141 --> 00:50:09,977
+Estou suspendendo a operação.
+Voltem para a base.
+
+761
+00:50:09,977 --> 00:50:13,689
+- Precisamos ir atrás deles.
+- Não, a operação foi suspensa.
+
+762
+00:50:14,148 --> 00:50:15,566
+Como assim?
+
+763
+00:50:15,566 --> 00:50:17,818
+Não podemos sair
+até terminarem de apurar.
+
+764
+00:50:17,818 --> 00:50:19,778
+Ele não pode
+nos largar assim.
+
+765
+00:50:20,738 --> 00:50:22,656
+Eu volto para casa
+em três semanas!
+
+766
+00:50:24,074 --> 00:50:26,118
+Serão três longas semanas.
+
+767
+00:51:02,863 --> 00:51:04,490
+<i>Minha nossa!</i>
+
+768
+00:51:04,490 --> 00:51:06,492
+<i>- Como você está?
+- E aí, pai?</i>
+
+769
+00:51:08,994 --> 00:51:10,871
+<i>Oi, mãe!</i>
+
+770
+00:51:13,958 --> 00:51:15,376
+Oi.
+
+771
+00:51:19,296 --> 00:51:20,714
+Oi, amor.
+
+772
+00:51:22,591 --> 00:51:25,010
+- Achei que tinha morrido.
+- Eu sei.
+
+773
+00:51:25,010 --> 00:51:26,637
+Desculpe.
+
+774
+00:51:26,637 --> 00:51:28,722
+- Desculpe.
+- Graças a Deus.
+
+775
+00:51:28,722 --> 00:51:30,307
+Eu estou bem aqui.
+
+776
+00:51:32,768 --> 00:51:34,186
+Eu te amo.
+
+777
+00:51:34,603 --> 00:51:36,397
+- É mesmo?
+- Sim.
+
+778
+00:51:40,192 --> 00:51:41,902
+- Tudo bem?
+- Sim.
+
+779
+00:52:01,380 --> 00:52:04,133
+Você é a coisa mais linda
+que eu já vi.
+
+780
+00:52:04,675 --> 00:52:07,303
+Tem um alien crescendo
+dentro de mim.
+
+781
+00:52:09,054 --> 00:52:11,890
+E um estranho
+no meu quarto.
+
+782
+00:52:11,890 --> 00:52:13,559
+É o nosso quarto.
+
+783
+00:52:17,896 --> 00:52:19,815
+Suas mãos parecem
+diferentes.
+
+784
+00:52:23,527 --> 00:52:25,738
+Não sei por quê,
+são as minhas mãos.
+
+785
+00:52:26,947 --> 00:52:29,658
+- Por que estou tão nervosa?
+- Eu também estou.
+
+786
+00:52:29,658 --> 00:52:32,244
+- Não está, não.
+- Juro que estou.
+
+787
+00:52:32,244 --> 00:52:35,789
+Vai que esse alien aí
+decide me agarrar?
+
+788
+00:52:35,789 --> 00:52:37,249
+E aí?
+
+789
+00:52:37,750 --> 00:52:39,376
+O que eu faço?
+
+790
+00:52:40,836 --> 00:52:42,379
+Estrangulo ele?
+
+791
+00:52:46,508 --> 00:52:47,926
+Vai ficar tudo bem.
+
+792
+00:52:47,926 --> 00:52:49,970
+- Promete?
+- Claro que sim.
+
+793
+00:52:52,681 --> 00:52:54,683
+Por que você é
+tão bom comigo?
+
+794
+00:53:02,608 --> 00:53:05,027
+<i>Talvez seja uma boa
+dar uma saída.</i>
+
+795
+00:53:06,278 --> 00:53:07,696
+<i>Está ouvindo?</i>
+
+796
+00:53:08,781 --> 00:53:10,240
+Chris.
+
+797
+00:53:12,076 --> 00:53:13,994
+O que quer fazer hoje,
+amor?
+
+798
+00:53:17,915 --> 00:53:20,250
+Pensei em ficar aqui
+descansando.
+
+799
+00:53:23,253 --> 00:53:24,838
+Está bem, então.
+
+800
+00:53:27,132 --> 00:53:28,842
+Vamos descansar.
+
+801
+00:53:29,843 --> 00:53:33,055
+- O que está fazendo?
+- Pondo meu pé em você.
+
+802
+00:53:33,055 --> 00:53:36,058
+Você sabe que esse é
+o caminho para o meu coração.
+
+803
+00:53:38,060 --> 00:53:39,645
+Eu vou até aí.
+
+804
+00:53:49,154 --> 00:53:53,534
+- Parece estar tudo ótimo.
+- Ele está tocando o nariz.
+
+805
+00:53:53,534 --> 00:53:56,537
+- Como está se sentindo?
+- Bem, só quero que nasça.
+
+806
+00:53:56,537 --> 00:53:59,665
+- Será a qualquer momento.
+- Assim espero.
+
+807
+00:53:59,665 --> 00:54:01,792
+E você, sr. Kyle?
+Como se sente?
+
+808
+00:54:01,792 --> 00:54:03,585
+Estou bem.
+Obrigado, senhora.
+
+809
+00:54:03,585 --> 00:54:06,463
+Imagino que seja difícil
+se readaptar.
+
+810
+00:54:07,423 --> 00:54:09,091
+Na verdade, não.
+
+811
+00:54:09,091 --> 00:54:11,635
+É a primeira vez
+que saímos de casa.
+
+812
+00:54:11,635 --> 00:54:13,929
+Estou feliz de estar
+de volta em casa.
+
+813
+00:54:16,473 --> 00:54:19,351
+Pode pôr isto aqui
+para mim?
+
+814
+00:54:20,769 --> 00:54:23,397
+Se quer me examinar,
+deveria ver meu joelho.
+
+815
+00:54:23,397 --> 00:54:25,399
+- Você fuma?
+- Não, senhora.
+
+816
+00:54:25,399 --> 00:54:27,943
+- Bebe?
+- Só quando dá sede.
+
+817
+00:54:35,409 --> 00:54:39,038
+- Está 17 por 11.
+- Jesus, Chris.
+
+818
+00:54:39,288 --> 00:54:40,664
+Isso é muito?
+
+819
+00:54:40,664 --> 00:54:42,666
+Não se você tomou
+14 xícaras de café.
+
+820
+00:54:42,666 --> 00:54:44,627
+Mas para alguém
+que está sentado...
+
+821
+00:54:44,627 --> 00:54:47,880
+Agradeço que tenha visto.
+Vou ver o que é isso.
+
+822
+00:54:48,255 --> 00:54:50,841
+- Obrigado.
+- Vai ver o que é?
+
+823
+00:54:50,841 --> 00:54:52,217
+Claro.
+
+824
+00:54:54,511 --> 00:54:56,722
+- Você me sabotou.
+- O que devo fazer?
+
+825
+00:54:56,722 --> 00:54:58,891
+Você não fala.
+Finge que está bem...
+
+826
+00:54:58,932 --> 00:55:01,518
+- Está tudo bem.
+- Não está, Chris.
+
+827
+00:55:01,518 --> 00:55:04,980
+Sua pressão arterial
+está 17 por 11...
+
+828
+00:55:04,980 --> 00:55:07,232
+Ei, estou dirigindo
+na estrada.
+
+829
+00:55:07,232 --> 00:55:09,735
+Está sol, calor,
+eu estou bem.
+
+830
+00:55:09,735 --> 00:55:13,739
+Tem uma guerra acontecendo
+mas ninguém fala nada.
+
+831
+00:55:13,739 --> 00:55:17,785
+Nós ficamos no celular,
+vivemos nossas vidas simples...
+
+832
+00:55:17,785 --> 00:55:19,161
+Não falam nem no jornal.
+
+833
+00:55:19,161 --> 00:55:20,788
+- Chris.
+- Ninguém se importa.
+
+834
+00:55:20,788 --> 00:55:22,831
+No meio da guerra
+saímos para passear.
+
+835
+00:55:22,831 --> 00:55:25,501
+- Eu deveria estar lá.
+- Chris, está acontecendo.
+
+836
+00:55:25,501 --> 00:55:27,503
+- Está tudo bem?
+- Está acontecendo.
+
+837
+00:55:27,753 --> 00:55:29,672
+Está bem, vamos voltar.
+
+838
+00:55:33,425 --> 00:55:36,345
+- Você é maluco, sabia?
+- Calma, amor.
+
+839
+00:55:37,554 --> 00:55:39,014
+Meu Deus...
+
+840
+00:55:39,264 --> 00:55:41,517
+- Amor...
+- Você está linda.
+
+841
+00:55:41,892 --> 00:55:43,727
+Está acontecendo!
+
+842
+00:55:46,897 --> 00:55:48,399
+Meu bebê.
+
+843
+00:55:51,735 --> 00:55:53,570
+Veja, a mamãe.
+
+844
+00:55:56,240 --> 00:55:58,617
+- Filhinho.
+- Oi, carinha.
+
+845
+00:56:01,287 --> 00:56:03,080
+Oi, carinha.
+
+846
+00:56:03,080 --> 00:56:08,085
+Veja o que fizemos.
+Veja só o que criamos.
+
+847
+00:56:08,085 --> 00:56:09,837
+Veja o que criamos.
+
+848
+00:56:22,141 --> 00:56:24,852
+O bebê está chorando,
+achei que você o atenderia.
+
+849
+00:56:24,852 --> 00:56:27,396
+Não precisa desligar,
+eu já assisti.
+
+850
+00:56:27,730 --> 00:56:31,025
+Quis ver se não era uma outra
+te mandando vídeos sensuais.
+
+851
+00:56:31,025 --> 00:56:34,528
+É um sniper gravando mortes.
+Ele vende as filmagens nas ruas.
+
+852
+00:56:34,528 --> 00:56:36,363
+São soldados americanos.
+
+853
+00:56:37,197 --> 00:56:39,992
+Aquele dia do telefone
+era ele?
+
+854
+00:56:40,743 --> 00:56:42,161
+Era?
+
+855
+00:56:43,621 --> 00:56:47,041
+Chris, fale logo.
+Não falar não me protege.
+
+856
+00:56:47,041 --> 00:56:49,001
+Não quero isso
+na sua cabeça.
+
+857
+00:56:49,001 --> 00:56:51,837
+Minha imaginação é pior
+que tudo que você disser.
+
+858
+00:56:51,837 --> 00:56:53,964
+- Chris.
+- Eles são uns bárbaros.
+
+859
+00:56:53,964 --> 00:56:55,883
+Não são eles
+que estão em jogo.
+
+860
+00:56:56,842 --> 00:56:58,594
+Somos nós.
+
+861
+00:57:00,095 --> 00:57:01,472
+O quê?
+
+862
+00:57:06,268 --> 00:57:09,063
+Você precisa conseguir
+retornar para a gente.
+
+863
+00:57:13,108 --> 00:57:14,526
+Está bem?
+
+864
+00:57:16,528 --> 00:57:17,947
+2ª EXPEDIÇÃO
+
+865
+00:57:17,947 --> 00:57:19,490
+Bem-vindo ao lar,
+Suboficial.
+
+866
+00:57:19,490 --> 00:57:21,700
+O Cel. Jones o espera.
+Como foi o voo?
+
+867
+00:57:21,700 --> 00:57:23,452
+Mais longo que o Natal.
+
+868
+00:57:23,911 --> 00:57:25,287
+Acredito.
+
+869
+00:57:28,415 --> 00:57:31,710
+- Espera um minuto?
+- Certo, apresse-se.
+
+870
+00:57:33,379 --> 00:57:35,089
+E aí, soldado?
+
+871
+00:57:35,089 --> 00:57:37,800
+Chris? Irmão?
+
+872
+00:57:38,717 --> 00:57:40,094
+Oi.
+
+873
+00:57:41,387 --> 00:57:42,888
+Tudo bem, está inteiro?
+
+874
+00:57:42,888 --> 00:57:44,848
+Soube que você está
+mandando bala.
+
+875
+00:57:44,848 --> 00:57:47,810
+- É o que todos dizem.
+- É isso que eles dizem?
+
+876
+00:57:47,810 --> 00:57:49,853
+- É, sim.
+- Tudo bem com você?
+
+877
+00:57:49,853 --> 00:57:53,023
+- Caramba, que bom te ver.
+- Você é o meu herói, irmão.
+
+878
+00:57:53,023 --> 00:57:54,817
+Você sempre foi.
+
+879
+00:57:54,817 --> 00:57:57,319
+Vamos, Kyle!
+O Coronel está esperando.
+
+880
+00:57:57,319 --> 00:57:58,904
+"Mito", hein?
+
+881
+00:58:01,198 --> 00:58:02,825
+Você vai ficar bem?
+
+882
+00:58:02,825 --> 00:58:05,452
+- Preciso ir ou vão me deixar.
+- O que houve?
+
+883
+00:58:06,537 --> 00:58:08,289
+Só estou cansado, cara.
+
+884
+00:58:09,290 --> 00:58:10,916
+Estou indo para casa.
+
+885
+00:58:12,126 --> 00:58:13,669
+Estou orgulhoso de você.
+
+886
+00:58:15,421 --> 00:58:17,631
+O pai também está.
+
+887
+00:58:19,425 --> 00:58:21,051
+Que se foda esse lugar.
+
+888
+00:58:22,886 --> 00:58:25,889
+- O que você disse?
+- Que se foda esse lugar.
+
+889
+00:58:30,853 --> 00:58:33,063
+<i>Suboficial, temos que ir.</i>
+
+890
+00:58:54,918 --> 00:58:57,921
+<i>- Suboficial, meus parabéns.
+- Obrigado, senhor.</i>
+
+891
+00:58:58,881 --> 00:59:01,759
+Gronski morreu.
+Como muitos de alta patente.
+
+892
+00:59:01,759 --> 00:59:03,886
+Seguiremos
+um novo plano estratégico.
+
+893
+00:59:04,511 --> 00:59:06,513
+Estudo revoltas
+há uma década.
+
+894
+00:59:06,513 --> 00:59:10,059
+Sei de cada pedra atirada
+desde antes do século I.
+
+895
+00:59:10,476 --> 00:59:12,019
+Estas guerras...
+
+896
+00:59:12,019 --> 00:59:15,022
+são vencidas e perdidas
+nas mentes dos nossos inimigos.
+
+897
+00:59:15,022 --> 00:59:16,440
+Sim, senhor.
+
+898
+00:59:17,191 --> 00:59:18,567
+É você?
+
+899
+00:59:19,026 --> 00:59:21,403
+É minha Cruz de Jerusalém.
+Sim, senhor.
+
+900
+00:59:23,572 --> 00:59:25,991
+Você é o homem
+mais procurado do Iraque.
+
+901
+00:59:25,991 --> 00:59:28,702
+Recompensa de $180 mil
+pela sua cabeça, parabéns.
+
+902
+00:59:28,744 --> 00:59:31,997
+Não conte para a minha esposa,
+ela é capaz de me entregar.
+
+903
+00:59:33,123 --> 00:59:35,751
+Soube que você quer montar
+um grupo de combate.
+
+904
+00:59:35,751 --> 00:59:38,170
+- Caçar o Açougueiro.
+- Sim, senhor.
+
+905
+00:59:39,546 --> 00:59:42,549
+Temos informações
+sobre a área de operação dele.
+
+906
+00:59:43,050 --> 00:59:46,428
+Quero esses bárbaros
+apavorados.
+
+907
+00:59:47,388 --> 00:59:49,056
+Encontrem-no.
+
+908
+00:59:49,515 --> 00:59:50,891
+Sim, senhor.
+
+909
+00:59:51,892 --> 00:59:54,311
+Muito bem,
+vamos pegar o desgraçado.
+
+910
+00:59:55,896 --> 00:59:57,982
+Vamos nos preparar
+para partir.
+
+911
+00:59:58,190 --> 00:59:59,900
+Fale menos
+da próxima vez, Mito.
+
+912
+00:59:59,900 --> 01:00:02,069
+- Como é?
+- Fale menos da próxima.
+
+913
+01:00:02,069 --> 01:00:04,071
+Conto aquela história
+se você quiser.
+
+914
+01:00:04,071 --> 01:00:06,740
+- Belo powerpoint, cara.
+- Está bem, Biggles.
+
+915
+01:00:06,740 --> 01:00:08,617
+Você sempre tem
+algo a dizer.
+
+916
+01:00:08,617 --> 01:00:11,453
+Essa sua Bíblia é
+à prova de balas?
+
+917
+01:00:11,453 --> 01:00:13,414
+- A que eu guardo aqui?
+- É.
+
+918
+01:00:13,414 --> 01:00:16,208
+Como nunca te vi lendo,
+presumi que fosse.
+
+919
+01:00:17,918 --> 01:00:20,129
+Deus, pátria e família,
+não é?
+
+920
+01:00:21,547 --> 01:00:23,173
+Acredita em Deus?
+
+921
+01:00:24,800 --> 01:00:26,844
+Claro que acredito,
+está maluco?
+
+922
+01:00:29,555 --> 01:00:32,182
+Minha casa de infância
+tinha uma cerca elétrica
+
+923
+01:00:32,182 --> 01:00:35,394
+em que as crianças seguravam
+para ver quem aguentava mais.
+
+924
+01:00:36,645 --> 01:00:38,731
+A guerra parece com isso.
+
+925
+01:00:39,231 --> 01:00:42,693
+Eletrifica seus ossos,
+te deixa desamparado.
+
+926
+01:00:44,445 --> 01:00:46,739
+Quer ficar de fora
+da operação de hoje?
+
+927
+01:00:48,324 --> 01:00:50,409
+Só quero acreditar
+no que fazemos aqui.
+
+928
+01:00:50,409 --> 01:00:52,745
+Há muita maldade aqui,
+você já viu.
+
+929
+01:00:53,370 --> 01:00:55,623
+Há maldade em todo lugar.
+
+930
+01:00:55,623 --> 01:00:59,126
+Você quer que esses desgraçados
+vão para San Diego ou Nova York?
+
+931
+01:00:59,710 --> 01:01:02,171
+Protegemos mais
+do que essa terra aqui.
+
+932
+01:01:04,131 --> 01:01:05,507
+Está bem.
+
+933
+01:01:06,216 --> 01:01:07,843
+Vamos matar o maldito.
+
+934
+01:01:19,063 --> 01:01:21,565
+Bingo, é esse prédio aqui.
+
+935
+01:01:21,565 --> 01:01:24,401
+O apartamento ao leste
+fica defronte ao restaurante.
+
+936
+01:01:26,987 --> 01:01:28,864
+Entre, senhor.
+Vão, vão.
+
+937
+01:01:31,116 --> 01:01:32,493
+Limpo.
+
+938
+01:01:43,045 --> 01:01:44,421
+Pela outra porta.
+
+939
+01:01:53,597 --> 01:01:55,641
+- Para o chão.
+- Está bem.
+
+940
+01:01:56,600 --> 01:01:58,310
+Mãos para trás.
+
+941
+01:02:06,068 --> 01:02:07,778
+Alvo neutralizado.
+
+942
+01:02:07,778 --> 01:02:09,571
+Vigiarei a janela, Chris.
+
+943
+01:02:09,571 --> 01:02:11,824
+- Armar segurança.
+- Vamos nos posicionar.
+
+944
+01:02:11,865 --> 01:02:13,242
+Para o canto.
+
+945
+01:02:13,617 --> 01:02:15,577
+Vamos para o outro quarto.
+
+946
+01:02:18,872 --> 01:02:21,667
+Pergunte se ele conhece.
+Você reconhece este cara?
+
+947
+01:02:24,795 --> 01:02:26,255
+Ele disse que não.
+
+948
+01:02:27,006 --> 01:02:29,466
+E você, menino?
+Reconhece esse rosto?
+
+949
+01:02:30,884 --> 01:02:32,303
+Tem certeza?
+
+950
+01:02:34,138 --> 01:02:38,183
+Bem, diga que eles não saem
+enquanto nós não sairmos.
+
+951
+01:02:41,437 --> 01:02:45,524
+Fique de olho na janela.
+Tire fotos de quem passar.
+
+952
+01:03:04,001 --> 01:03:05,502
+O que temos?
+
+953
+01:03:07,129 --> 01:03:09,757
+Entraram 16 homens
+de idade militar.
+
+954
+01:03:09,757 --> 01:03:11,175
+16?
+
+955
+01:03:11,175 --> 01:03:14,386
+Eles têm mais clientes
+que o McDonald's.
+
+956
+01:03:15,137 --> 01:03:16,597
+Dê uma olhada.
+
+957
+01:03:21,935 --> 01:03:23,562
+Ele continua lá dentro?
+
+958
+01:03:23,562 --> 01:03:25,314
+Só identifiquei
+uma entrada.
+
+959
+01:03:25,314 --> 01:03:27,483
+Ele está lá,
+mas não será fácil invadir.
+
+960
+01:03:27,483 --> 01:03:29,401
+Não sei, cara.
+
+961
+01:03:29,401 --> 01:03:32,655
+A hora que ele vir o Mito,
+vai tratar como celebridade,
+
+962
+01:03:32,655 --> 01:03:34,573
+pedirá um autógrafo
+na burca.
+
+963
+01:03:34,573 --> 01:03:37,159
+Vai convidar
+para o aniversário do filho...
+
+964
+01:03:37,159 --> 01:03:39,870
+Qual é a sua?
+Eu não me autopromovi.
+
+965
+01:03:39,870 --> 01:03:42,122
+Claro que não,
+eu fiz isso por você.
+
+966
+01:03:42,122 --> 01:03:46,001
+Nunca viraria suboficial
+se não fosse pelo apelido.
+
+967
+01:03:53,175 --> 01:03:56,845
+Ele os convida
+para a ceia do Eid al-Adha.
+
+968
+01:03:56,845 --> 01:04:00,516
+Falou que nesta data
+todos têm lugar na mesa dele.
+
+969
+01:04:01,266 --> 01:04:03,143
+É generoso da parte dele.
+
+970
+01:04:16,615 --> 01:04:18,659
+- Está bem gostoso.
+- Muito bom.
+
+971
+01:04:19,118 --> 01:04:22,162
+Vai pepino nisso aqui?
+
+972
+01:04:22,454 --> 01:04:24,665
+- É pepino?
+- Sim.
+
+973
+01:04:24,665 --> 01:04:26,667
+<i>Já imaginou receber
+o Mito em casa?</i>
+
+974
+01:04:26,709 --> 01:04:28,711
+Você deixa marinando
+durante a noite,
+
+975
+01:04:28,711 --> 01:04:30,546
+depois põe a vodca.
+
+976
+01:04:30,546 --> 01:04:32,798
+A ideia é essa.
+Quer tentar qualquer hora?
+
+977
+01:04:32,798 --> 01:04:35,634
+Claro, cara.
+Adoro fazer experimentos.
+
+978
+01:04:35,634 --> 01:04:38,012
+Por favor, você nunca
+cozinhou nada na vida.
+
+979
+01:04:40,931 --> 01:04:42,558
+Essa foi boa.
+
+980
+01:04:43,434 --> 01:04:45,394
+"Adoro fazer experimentos."
+
+981
+01:04:48,689 --> 01:04:50,858
+<i>Nem eu nem ninguém aqui.</i>
+
+982
+01:04:53,277 --> 01:04:54,945
+<i>Caramba, cara.</i>
+
+983
+01:05:06,123 --> 01:05:08,167
+<i>Vai comer
+com a mão esquerda?</i>
+
+984
+01:05:09,001 --> 01:05:10,377
+<i>Qual é, cara?</i>
+
+985
+01:05:11,503 --> 01:05:13,589
+Vou lavar minhas mãos.
+
+986
+01:06:34,878 --> 01:06:37,381
+- Vá ver o que é.
+- Fique aqui.
+
+987
+01:06:37,715 --> 01:06:40,634
+- O que diabos é isso?
+- Biggles, fique aqui.
+
+988
+01:06:43,137 --> 01:06:44,805
+Está vendo isso, amigo?
+
+989
+01:06:45,848 --> 01:06:48,225
+- Está vendo?
+- O que está havendo?
+
+990
+01:06:48,225 --> 01:06:50,144
+- Traga o intérprete.
+- Minha nossa.
+
+991
+01:06:52,980 --> 01:06:54,398
+Certo.
+
+992
+01:06:54,398 --> 01:06:56,900
+Diga que ele será detido...
+
+993
+01:06:56,900 --> 01:06:59,820
+e que a justiça iraquiana
+decidirá o destino dele.
+
+994
+01:06:59,820 --> 01:07:02,489
+A menos que nos ajude
+a entrar no restaurante.
+
+995
+01:07:02,489 --> 01:07:04,617
+Diga que é ele quem sabe.
+
+996
+01:07:36,649 --> 01:07:38,025
+É isso aí.
+
+997
+01:07:39,318 --> 01:07:40,694
+Tudo limpo.
+
+998
+01:07:42,071 --> 01:07:43,530
+Prossiga.
+
+999
+01:07:47,201 --> 01:07:48,994
+Esquadrão de assalto
+a postos.
+
+1000
+01:07:52,790 --> 01:07:54,750
+Vigilância do lado leste
+a postos.
+
+1001
+01:07:54,750 --> 01:07:56,502
+Sujeito a caminho da porta.
+
+1002
+01:08:10,849 --> 01:08:12,685
+A 15 metros de distância.
+
+1003
+01:08:16,021 --> 01:08:17,523
+10 metros.
+
+1004
+01:08:20,943 --> 01:08:22,361
+5 metros.
+
+1005
+01:08:31,078 --> 01:08:32,496
+Ele está batendo.
+
+1006
+01:08:37,167 --> 01:08:38,585
+Aguardem.
+
+1007
+01:08:39,712 --> 01:08:41,338
+Estão o checando.
+
+1008
+01:08:43,424 --> 01:08:45,050
+Acabou a luz, amigo.
+
+1009
+01:08:45,884 --> 01:08:47,344
+Executar.
+
+1010
+01:08:54,768 --> 01:08:56,979
+Granada!
+
+1011
+01:09:05,070 --> 01:09:07,114
+Biggles, algo vindo de trás?
+
+1012
+01:09:07,114 --> 01:09:08,949
+<i>Negativo.
+Nenhuma movimentação.</i>
+
+1013
+01:09:12,661 --> 01:09:14,330
+Minha nossa.
+
+1014
+01:09:19,960 --> 01:09:22,379
+- D, desamarre-o.
+- Pode deixar.
+
+1015
+01:09:24,632 --> 01:09:26,091
+Tire ele daí.
+
+1016
+01:09:30,137 --> 01:09:31,513
+Merda.
+
+1017
+01:09:31,513 --> 01:09:34,183
+<i>Achamos um túnel.
+Cuidado, fiquem atentos.</i>
+
+1018
+01:09:35,893 --> 01:09:38,103
+Sofrendo ataque!
+
+1019
+01:09:42,358 --> 01:09:44,026
+Recuar!
+
+1020
+01:09:47,321 --> 01:09:49,740
+Assegurar o lado branco.
+
+1021
+01:10:09,593 --> 01:10:11,011
+Abaixe-se!
+
+1022
+01:10:24,858 --> 01:10:26,318
+Morteiro!
+
+1023
+01:10:42,751 --> 01:10:44,211
+Açougueiro fugindo.
+
+1024
+01:10:45,045 --> 01:10:47,089
+Açougueiro fugindo,
+estou engajando.
+
+1025
+01:10:57,641 --> 01:11:00,269
+Açougueiro abatido.
+Retornando à sua posição.
+
+1026
+01:11:22,916 --> 01:11:25,586
+Nós oferecemos detenção,
+a escolha foi dele.
+
+1027
+01:11:25,586 --> 01:11:27,588
+Escolheu o lado errado.
+Isso é tudo.
+
+1028
+01:11:27,588 --> 01:11:29,006
+Névoa da guerra.
+
+1029
+01:11:31,133 --> 01:11:32,760
+Chris...
+
+1030
+01:11:32,760 --> 01:11:35,429
+Vamos embora, cara.
+A coisa está ficando feia.
+
+1031
+01:11:35,429 --> 01:11:38,223
+Rebeldes armados a caminho.
+Precisamos dar o fora.
+
+1032
+01:11:38,223 --> 01:11:39,850
+Bom trabalho, Suboficial.
+
+1033
+01:12:23,811 --> 01:12:26,855
+- Quer mais uma ou não?
+- Eu quero esta aqui.
+
+1034
+01:12:26,855 --> 01:12:29,233
+É a máquina que decide
+qual você vai ganhar.
+
+1035
+01:12:29,233 --> 01:12:31,360
+Você não pode escolher
+qual você quer.
+
+1036
+01:12:31,360 --> 01:12:33,195
+Mas eu gostei desta.
+
+1037
+01:12:41,328 --> 01:12:44,665
+- Muito bem, você está forte.
+- Chris Kyle, seguro pronto.
+
+1038
+01:12:44,665 --> 01:12:48,711
+- Vire para cima...
+- Aquela bola é impossível.
+
+1039
+01:12:48,711 --> 01:12:51,922
+- Por favor, o cartão.
+- Que interessante.
+
+1040
+01:12:52,256 --> 01:12:54,591
+- Já te dei o cartão.
+- É mesmo.
+
+1041
+01:12:55,301 --> 01:12:57,928
+Junte isso do chão.
+
+1042
+01:12:58,512 --> 01:13:00,180
+Pegue todos.
+
+1043
+01:13:00,180 --> 01:13:03,225
+- Cate aquele ali.
+- Com licença, senhor.
+
+1044
+01:13:05,519 --> 01:13:08,314
+- Suboficial Chris Kyle?
+- Sim, senhor.
+
+1045
+01:13:09,231 --> 01:13:11,275
+Meu nome é Mads.
+
+1046
+01:13:11,275 --> 01:13:13,944
+Eu o conheci em Falluja,
+você salvou minha vida.
+
+1047
+01:13:15,446 --> 01:13:17,698
+- Salvei?
+- Sim, senhor.
+
+1048
+01:13:18,324 --> 01:13:20,159
+Estávamos presos numa casa,
+
+1049
+01:13:20,159 --> 01:13:23,203
+você chegou com os fuzileiros
+e me carregou para fora.
+
+1050
+01:13:23,996 --> 01:13:26,206
+Os fuzileiros nos salvaram
+muitas vezes.
+
+1051
+01:13:26,206 --> 01:13:29,084
+- Tudo bem com você?
+- Tudo ótimo.
+
+1052
+01:13:29,084 --> 01:13:31,879
+Eu sou grato
+por estar vivo.
+
+1053
+01:13:31,879 --> 01:13:35,507
+Não tem sido fácil...
+
+1054
+01:13:36,216 --> 01:13:37,635
+Bem...
+
+1055
+01:13:39,845 --> 01:13:42,222
+Muitos caras perderam
+mais do que uma perna.
+
+1056
+01:13:43,223 --> 01:13:45,059
+Perdeu amigos?
+
+1057
+01:13:45,059 --> 01:13:47,603
+Também, mas falo
+dos que sobreviveram.
+
+1058
+01:13:47,603 --> 01:13:50,314
+Eles conseguiram voltar
+mas não estão de volta.
+
+1059
+01:13:50,314 --> 01:13:52,566
+- Não conseguem se acertar.
+- É claro.
+
+1060
+01:13:55,152 --> 01:13:56,987
+Por que não visita
+os veteranos?
+
+1061
+01:13:56,987 --> 01:13:58,405
+Os caras vão adorar.
+
+1062
+01:13:58,781 --> 01:14:00,824
+Todos sabem quem é o Mito.
+
+1063
+01:14:02,242 --> 01:14:04,912
+- Parece uma boa ideia.
+- Amiguinho...
+
+1064
+01:14:06,497 --> 01:14:08,332
+Posso te dizer uma coisa?
+
+1065
+01:14:09,041 --> 01:14:12,294
+Seu pai é um herói.
+
+1066
+01:14:13,337 --> 01:14:14,797
+É isso aí.
+
+1067
+01:14:15,130 --> 01:14:20,094
+Ele me salvou e me devolveu
+para a minha filha.
+
+1068
+01:14:20,094 --> 01:14:22,805
+Obrigado por emprestar
+ele para a gente.
+
+1069
+01:14:22,805 --> 01:14:24,181
+Está bem.
+
+1070
+01:14:24,223 --> 01:14:26,266
+Eu só estou aqui
+por causa dele.
+
+1071
+01:14:32,606 --> 01:14:35,025
+Minha família é grata
+pelo seu serviço.
+
+1072
+01:14:36,777 --> 01:14:38,654
+Certo, obrigado.
+
+1073
+01:14:39,321 --> 01:14:41,949
+- Cuide-se.
+- Foi ótimo vê-lo aqui.
+
+1074
+01:14:41,949 --> 01:14:43,867
+Apareça nos veteranos
+qualquer dia.
+
+1075
+01:14:44,576 --> 01:14:46,412
+Pegue seu brinquedo.
+
+1076
+01:14:49,290 --> 01:14:51,000
+- Obrigado.
+- Por nada.
+
+1077
+01:14:51,000 --> 01:14:53,210
+- Um bom dia.
+- Igualmente.
+
+1078
+01:14:54,336 --> 01:14:56,338
+Vamos conhecer sua irmã.
+
+1079
+01:15:26,327 --> 01:15:29,163
+Pode dar uma olhada?
+Minha filha está chorando.
+
+1080
+01:15:32,541 --> 01:15:35,628
+Aquela é a minha filha,
+você pode atendê-la?
+
+1081
+01:15:35,628 --> 01:15:37,004
+Com licença.
+
+1082
+01:15:40,549 --> 01:15:41,925
+O que está fazendo?
+
+1083
+01:15:44,011 --> 01:15:46,055
+Pode atender a minha filha?
+
+1084
+01:15:53,479 --> 01:15:55,689
+Atenda a minha filha,
+agora!
+
+1085
+01:15:58,359 --> 01:16:00,778
+Estou criando
+lembranças sozinha.
+
+1086
+01:16:03,155 --> 01:16:05,449
+Não tenho
+com quem compartilhá-las.
+
+1087
+01:16:06,492 --> 01:16:09,370
+Nós teremos a vida toda
+para isso.
+
+1088
+01:16:12,122 --> 01:16:13,958
+Quando isso começou?
+
+1089
+01:16:15,084 --> 01:16:17,920
+Você está presente,
+mas não está aqui.
+
+1090
+01:16:18,837 --> 01:16:21,632
+Eu te vejo, te sinto...
+
+1091
+01:16:22,883 --> 01:16:24,760
+mas você não está aqui.
+
+1092
+01:16:41,902 --> 01:16:43,988
+Eu odeio as tropas
+por isso.
+
+1093
+01:16:46,031 --> 01:16:47,408
+De verdade.
+
+1094
+01:16:48,033 --> 01:16:49,868
+Você é meu marido,
+
+1095
+01:16:49,868 --> 01:16:53,539
+pai dos meus filhos,
+mas é a eles que você volta.
+
+1096
+01:16:59,837 --> 01:17:02,840
+Eles não podem esperar,
+nós dois podemos.
+
+1097
+01:17:08,053 --> 01:17:11,348
+Se acha que a guerra não está
+te mudando, você se engana.
+
+1098
+01:17:14,518 --> 01:17:17,354
+Há um limite para ficar
+brincando com fogo.
+
+1099
+01:17:28,532 --> 01:17:29,950
+Essa a verdade.
+
+1100
+01:17:47,676 --> 01:17:50,262
+3ª EXPEDIÇÃO
+- Seguindo a van do Açougueiro.
+
+1101
+01:17:50,262 --> 01:17:52,723
+Atualmente estamos
+na Rua Maryland. Câmbio.
+
+1102
+01:17:53,724 --> 01:17:55,726
+Ei, comprei o anel.
+
+1103
+01:17:56,602 --> 01:18:00,439
+- Onde? Aqui?
+- Claro, é muito mais barato.
+
+1104
+01:18:00,814 --> 01:18:03,901
+Comprou dos bárbaros?
+E se for diamante de sangue?
+
+1105
+01:18:03,901 --> 01:18:07,404
+Vai dizer que se importa, cara?
+Você derramou muito mais sangue.
+
+1106
+01:18:07,404 --> 01:18:10,240
+- Você é o Mito!
+- Mas não foi por uma pedra.
+
+1107
+01:18:10,240 --> 01:18:12,076
+Que seja, cara.
+
+1108
+01:18:12,993 --> 01:18:16,497
+- Isso é hipocrisia.
+- Devagar, não encoste muito.
+
+1109
+01:18:16,497 --> 01:18:18,916
+Você contou para ela?
+Disse onde comprou?
+
+1110
+01:18:18,916 --> 01:18:21,543
+Claro que não,
+vou dizer que é da joalheria.
+
+1111
+01:18:24,088 --> 01:18:25,923
+<i>Está vivo, frutinha?</i>
+
+1112
+01:18:26,340 --> 01:18:30,177
+Estamos a uma quadra.
+Prontos para a ação.
+
+1113
+01:18:30,177 --> 01:18:31,553
+Sabe, D...
+
+1114
+01:18:32,221 --> 01:18:35,057
+Prevejo que em 20 anos
+nós faremos um reencontro...
+
+1115
+01:18:35,641 --> 01:18:37,518
+e você vai ser casado
+com um cara.
+
+1116
+01:18:37,893 --> 01:18:40,145
+Contanto que você
+cozinhe e faça faxina...
+
+1117
+01:18:49,280 --> 01:18:51,365
+- Lá estão eles.
+- Caramba.
+
+1118
+01:18:52,783 --> 01:18:54,785
+Mustafa colocou
+seus homens nas ruas.
+
+1119
+01:18:54,785 --> 01:18:58,038
+Este desgraçado é
+tipo o Keyser Söze.
+
+1120
+01:19:14,388 --> 01:19:17,474
+Na sua próxima chance,
+não perca o tiro, está bem?
+
+1121
+01:19:17,474 --> 01:19:20,728
+Eu teria pegado ele no beco,
+mas tive que ir te salvar.
+
+1122
+01:19:48,881 --> 01:19:50,549
+Então,
+quer ser meu padrinho?
+
+1123
+01:19:50,549 --> 01:19:52,468
+Serei só eu
+ou a tropa toda?
+
+1124
+01:19:52,468 --> 01:19:54,637
+Só pode haver
+um padrinho, cara.
+
+1125
+01:20:01,393 --> 01:20:03,228
+Veículo 1 sofrendo ataque.
+
+1126
+01:20:03,812 --> 01:20:05,814
+- Dê cobertura.
+- Certo.
+
+1127
+01:20:25,960 --> 01:20:27,419
+Biggles, avance.
+
+1128
+01:20:33,258 --> 01:20:34,635
+Limpo.
+
+1129
+01:20:35,219 --> 01:20:36,845
+Um junto comigo.
+
+1130
+01:20:48,899 --> 01:20:50,359
+<i>Nós os pegamos.</i>
+
+1131
+01:20:50,359 --> 01:20:52,778
+<i>Veículo neutralizado,
+alvo abatido.</i>
+
+1132
+01:20:52,778 --> 01:20:54,697
+<i>Estabeleça a segurança,
+Chris.</i>
+
+1133
+01:20:55,447 --> 01:20:56,907
+Bem...
+
+1134
+01:20:57,241 --> 01:20:59,076
+Terraço seguro.
+
+1135
+01:21:00,035 --> 01:21:02,288
+Não tem medo
+de ela ir à joalheria
+
+1136
+01:21:02,288 --> 01:21:04,373
+para descobrir
+quanto você gastou?
+
+1137
+01:21:05,207 --> 01:21:07,626
+- Eu não estava.
+- Segurança estabelecida.
+
+1138
+01:21:07,626 --> 01:21:10,462
+- Agora estou meio preocupado.
+- Deveria, mesmo.
+
+1139
+01:21:10,462 --> 01:21:12,715
+Acha que podem
+rastrear o diamante?
+
+1140
+01:21:12,715 --> 01:21:14,341
+Não acho, tenho certeza.
+
+1141
+01:21:17,136 --> 01:21:19,763
+Tudo bem, parceiro?
+Você está bem.
+
+1142
+01:21:25,644 --> 01:21:27,688
+Temos um ferido.
+Biggles está ferido.
+
+1143
+01:21:27,688 --> 01:21:29,732
+Ao noroeste, num terraço.
+
+1144
+01:21:34,111 --> 01:21:35,738
+Aguente firme, amigo.
+
+1145
+01:21:40,075 --> 01:21:42,161
+Preciso de um enfermeiro
+agora mesmo.
+
+1146
+01:21:53,172 --> 01:21:56,091
+Parceiro, vou levantá-lo
+e levá-lo lá para baixo.
+
+1147
+01:21:59,178 --> 01:22:00,596
+Eu consigo andar.
+
+1148
+01:22:14,652 --> 01:22:17,237
+Aguente firme.
+Vamos colocá-lo no jipe.
+
+1149
+01:22:17,529 --> 01:22:18,948
+Pode soltá-lo.
+
+1150
+01:22:24,954 --> 01:22:27,039
+Entrem logo!
+Aguente firme, Biggles.
+
+1151
+01:22:27,498 --> 01:22:28,958
+Aguente firme, Biggles.
+
+1152
+01:22:29,375 --> 01:22:30,793
+Aguente firme.
+
+1153
+01:22:34,588 --> 01:22:37,007
+- Está tudo bem.
+- Desculpe-me, cara.
+
+1154
+01:22:37,007 --> 01:22:39,093
+Pelo quê?
+Por que se desculpar?
+
+1155
+01:22:39,093 --> 01:22:40,803
+Eu que nos levei
+àquele terraço.
+
+1156
+01:22:40,803 --> 01:22:42,304
+Eu vou morrer?
+
+1157
+01:22:42,304 --> 01:22:44,556
+Claro que não, Biggles.
+Você é um SEAL.
+
+1158
+01:22:44,556 --> 01:22:46,183
+SEALs não morrem.
+
+1159
+01:22:46,183 --> 01:22:48,018
+Vamos colocar areia
+nesse corte,
+
+1160
+01:22:48,018 --> 01:22:50,604
+te dar um gole de água
+e você ficará bem.
+
+1161
+01:22:50,604 --> 01:22:52,356
+- Aguente firme!
+- Ei, Chris...
+
+1162
+01:22:52,356 --> 01:22:54,441
+Pode garantir
+que ela receberá o anel?
+
+1163
+01:22:54,441 --> 01:22:55,818
+Pode deixar.
+
+1164
+01:23:00,364 --> 01:23:02,992
+<i>Aumente a sucção
+e me passe um afastador.</i>
+
+1165
+01:23:03,367 --> 01:23:04,868
+<i>É preciso de mais sangue.</i>
+
+1166
+01:23:04,868 --> 01:23:07,496
+<i>- Quanto tempo levará?
+- Precisamos de sangue.</i>
+
+1167
+01:23:07,496 --> 01:23:09,331
+<i>Mais uns 3 ou 4 minutos.</i>
+
+1168
+01:23:10,791 --> 01:23:12,251
+<i>Mais sucção.</i>
+
+1169
+01:23:14,586 --> 01:23:16,046
+<i>Segure nesta posição.</i>
+
+1170
+01:23:16,422 --> 01:23:18,257
+<i>Precisamos do resultado!</i>
+
+1171
+01:23:26,640 --> 01:23:28,434
+Você viu de onde veio?
+
+1172
+01:23:28,976 --> 01:23:31,395
+Ele estava a 1 km
+de distância.
+
+1173
+01:23:31,895 --> 01:23:34,565
+Só há um sniper inimigo
+capaz desse disparo.
+
+1174
+01:23:36,108 --> 01:23:39,778
+- Ele vai sobreviver?
+- A bala se estilhaçou.
+
+1175
+01:23:40,487 --> 01:23:42,031
+Não é animador.
+
+1176
+01:23:42,406 --> 01:23:44,241
+É o primeiro SEAL ferido,
+senhor.
+
+1177
+01:23:44,658 --> 01:23:46,118
+Merda.
+
+1178
+01:23:47,328 --> 01:23:51,540
+Um taxista xiita informante
+diz que há resistência ao sul.
+
+1179
+01:23:51,540 --> 01:23:54,585
+Os fuzileiros que nos cobriram
+continuam em confronto.
+
+1180
+01:23:54,627 --> 01:23:57,254
+Entendo se quiser esperar
+e reagrupar.
+
+1181
+01:23:57,254 --> 01:23:58,672
+Você decide.
+
+1182
+01:23:59,632 --> 01:24:01,467
+Lei de talião.
+
+1183
+01:24:02,134 --> 01:24:03,802
+Olho por olho.
+
+1184
+01:24:08,849 --> 01:24:10,559
+Eu vou voltar lá.
+
+1185
+01:24:11,268 --> 01:24:13,312
+- Vamos, caramba.
+- Vamos.
+
+1186
+01:24:13,687 --> 01:24:15,105
+Vamos lá.
+
+1187
+01:24:16,607 --> 01:24:18,067
+Vamos.
+
+1188
+01:24:47,638 --> 01:24:49,098
+Ei.
+
+1189
+01:24:52,059 --> 01:24:53,727
+Estamos a 2 km.
+
+1190
+01:25:21,380 --> 01:25:22,965
+Caminho limpo?
+
+1191
+01:25:23,549 --> 01:25:25,634
+À esquerda, verifique.
+
+1192
+01:25:29,263 --> 01:25:30,764
+Corredor.
+
+1193
+01:25:33,767 --> 01:25:36,186
+Corredor limpo.
+À esquerda.
+
+1194
+01:25:37,813 --> 01:25:39,231
+Limpo.
+
+1195
+01:25:39,982 --> 01:25:41,483
+Tudo limpo.
+
+1196
+01:25:45,821 --> 01:25:47,239
+Tudo limpo.
+
+1197
+01:25:48,407 --> 01:25:49,825
+Ei, Marc...
+
+1198
+01:25:50,034 --> 01:25:52,536
+Parece que alguém
+saiu com pressa daqui.
+
+1199
+01:25:58,792 --> 01:26:01,712
+- Homem ferido!
+- Disparos da janela!
+
+1200
+01:26:02,630 --> 01:26:04,882
+Disparos da janela!
+
+1201
+01:26:15,267 --> 01:26:16,727
+Marc...
+
+1202
+01:26:19,063 --> 01:26:21,565
+Vamos, amigo.
+Eu estou contigo.
+
+1203
+01:26:21,565 --> 01:26:23,233
+Olhe para mim!
+
+1204
+01:26:24,902 --> 01:26:26,362
+Estou contigo.
+
+1205
+01:26:35,746 --> 01:26:37,581
+O Marc se foi, irmão.
+
+1206
+01:26:39,458 --> 01:26:42,336
+Temos uma baixa,
+precisamos de reforços.
+
+1207
+01:26:42,753 --> 01:26:44,380
+Temos que dar o fora.
+
+1208
+01:26:53,222 --> 01:26:54,640
+<i>"Glória.</i>
+
+1209
+01:26:54,640 --> 01:26:56,475
+<i>Algo que alguns homens
+perseguem</i>
+
+1210
+01:26:56,475 --> 01:27:01,480
+<i>e com que outros
+se deparam casualmente.</i>
+
+1211
+01:27:02,189 --> 01:27:07,069
+<i>De qualquer modo,
+alcançá-la é um gesto nobre.</i>
+
+1212
+01:27:07,069 --> 01:27:08,654
+<i>Mas eu pergunto:</i>
+
+1213
+01:27:08,654 --> 01:27:13,325
+<i>quando a glória desaparece
+e vira uma batalha ilegítima?</i>
+
+1214
+01:27:13,325 --> 01:27:17,746
+<i>Um meio indevido
+pelo qual alguém...</i>
+
+1215
+01:27:17,746 --> 01:27:20,165
+é consumido por inteiro?
+
+1216
+01:27:20,958 --> 01:27:23,961
+Eu vejo guerra...
+
+1217
+01:27:23,961 --> 01:27:27,339
+e vejo morte."
+
+1218
+01:27:27,965 --> 01:27:30,926
+<i>Atenção, posição.</i>
+
+1219
+01:27:31,677 --> 01:27:33,971
+<i>Portar armas.</i>
+
+1220
+01:27:35,139 --> 01:27:38,559
+<i>Preparar, apontar,</i>
+
+1221
+01:27:38,559 --> 01:27:39,977
+<i>fogo.</i>
+
+1222
+01:27:40,519 --> 01:27:43,814
+<i>Preparar, apontar,</i>
+
+1223
+01:27:43,814 --> 01:27:45,441
+<i>fogo.</i>
+
+1224
+01:27:45,441 --> 01:27:49,486
+<i>Preparar, apontar, fogo.</i>
+
+1225
+01:27:50,237 --> 01:27:52,906
+<i>Abaixar armas.</i>
+
+1226
+01:28:46,794 --> 01:28:49,296
+Marc escreveu aquela carta
+duas semanas atrás.
+
+1227
+01:28:51,799 --> 01:28:54,051
+Ele falou algo daquilo
+para você?
+
+1228
+01:29:02,643 --> 01:29:05,521
+Chris, eu quero saber
+o que achou da carta dele.
+
+1229
+01:29:06,897 --> 01:29:10,359
+Nós recebemos uma pista
+de um informante da Al-Qaeda.
+
+1230
+01:29:10,985 --> 01:29:12,611
+O Biggles havia sido
+baleado,
+
+1231
+01:29:12,611 --> 01:29:16,073
+agimos pela emoção
+e fomos emboscados.
+
+1232
+01:29:16,407 --> 01:29:19,243
+Mas não foi isso
+que matou ele.
+
+1233
+01:29:20,327 --> 01:29:22,788
+Foi aquela carta
+que matou o Marc.
+
+1234
+01:29:22,788 --> 01:29:27,001
+Ele esmoreceu
+e pagou o preço por isso.
+
+1235
+01:29:37,970 --> 01:29:39,388
+É preciso assinar?
+
+1236
+01:29:50,316 --> 01:29:52,026
+E aí, amigo?
+
+1237
+01:29:52,401 --> 01:29:54,612
+- É o Chris?
+- Sim.
+
+1238
+01:29:54,653 --> 01:29:56,822
+- Cadê você?
+- Bem aqui.
+
+1239
+01:29:56,822 --> 01:29:59,867
+- Cego como um morcego?
+- Pois é, que saco.
+
+1240
+01:30:00,576 --> 01:30:02,745
+Mas disseram
+que vão arrumar minha cara.
+
+1241
+01:30:02,745 --> 01:30:04,204
+Graças a Deus.
+
+1242
+01:30:04,288 --> 01:30:07,708
+- Eles terão bastante trabalho.
+- É cedo para essa piada, cara.
+
+1243
+01:30:07,708 --> 01:30:09,918
+- É cedo?
+- Demais.
+
+1244
+01:30:10,294 --> 01:30:12,254
+Ouvi dizer
+que você fez o pedido.
+
+1245
+01:30:12,254 --> 01:30:14,715
+- Pois é.
+- Que bom.
+
+1246
+01:30:15,090 --> 01:30:18,552
+Você não falou que comprou
+o diamante na joalheria, não é?
+
+1247
+01:30:18,552 --> 01:30:20,012
+- Não.
+- Não falou?
+
+1248
+01:30:20,012 --> 01:30:22,264
+Não, eu comprei outro.
+
+1249
+01:30:22,890 --> 01:30:27,353
+- Um menor, meu sogro me ajudou.
+- Ótimo, isso é legal.
+
+1250
+01:30:28,354 --> 01:30:30,230
+Ela não quis
+me deixar, cara.
+
+1251
+01:30:32,232 --> 01:30:34,902
+Falei para ela ir
+e ela não quis.
+
+1252
+01:30:35,611 --> 01:30:38,280
+Ela está levando
+gato por lebre.
+
+1253
+01:30:39,114 --> 01:30:40,783
+Por que diz isso?
+
+1254
+01:30:41,200 --> 01:30:43,243
+Não diga isso,
+ela está levando você.
+
+1255
+01:30:45,537 --> 01:30:48,749
+- Você e os seus 5 cm.
+- Meus 30 cm.
+
+1256
+01:30:50,209 --> 01:30:53,462
+Que bom que aconteceu
+comigo, não com você.
+
+1257
+01:30:53,796 --> 01:30:57,007
+- Você não ia aguentar.
+- Provavelmente não.
+
+1258
+01:30:57,967 --> 01:31:01,470
+Dizem que você é o sniper
+mais mortal da história dos EUA.
+
+1259
+01:31:01,470 --> 01:31:03,889
+- É mesmo?
+- Foi o que ouvi dizer.
+
+1260
+01:31:06,225 --> 01:31:08,686
+Os caras maus foram
+para Cidade Sadr.
+
+1261
+01:31:08,686 --> 01:31:11,730
+- Não vão voltar, não é?
+- Iremos encurralá-los lá.
+
+1262
+01:31:11,730 --> 01:31:15,192
+- Não precisam fazer isso.
+- Precisamos, sim.
+
+1263
+01:31:15,192 --> 01:31:16,694
+Você é meu irmão.
+
+1264
+01:31:16,694 --> 01:31:19,154
+Eles vão pagar
+pelo que fizeram com você.
+
+1265
+01:31:21,365 --> 01:31:22,908
+<i>Hooyah, Mito.</i>
+
+1266
+01:31:23,951 --> 01:31:25,494
+<i>Hooyah!</i>
+
+1267
+01:31:31,500 --> 01:31:33,877
+Se algo acontecer comigo...
+
+1268
+01:31:33,877 --> 01:31:35,713
+você vai ficar bem.
+
+1269
+01:31:36,380 --> 01:31:38,215
+Você encontra outra pessoa.
+
+1270
+01:31:41,260 --> 01:31:43,095
+Você quer morrer?
+
+1271
+01:31:43,887 --> 01:31:45,889
+É isso?
+
+1272
+01:31:45,889 --> 01:31:47,266
+Não.
+
+1273
+01:31:48,058 --> 01:31:49,935
+Então me diga.
+
+1274
+01:31:50,978 --> 01:31:54,398
+Por que você faz isso?
+Eu quero entender.
+
+1275
+01:31:54,398 --> 01:31:56,817
+Amor, eu faço por você.
+Para te proteger.
+
+1276
+01:31:56,817 --> 01:31:58,944
+- Não faz, não.
+- Faço, sim.
+
+1277
+01:31:58,944 --> 01:32:00,571
+Eu estou aqui.
+
+1278
+01:32:00,571 --> 01:32:03,574
+Sua família está aqui,
+seus filhos não têm pai.
+
+1279
+01:32:03,574 --> 01:32:05,367
+Preciso servir
+à minha pátria.
+
+1280
+01:32:05,367 --> 01:32:08,037
+- Que besteira!
+- Não é.
+
+1281
+01:32:08,037 --> 01:32:10,080
+Você não sabe
+a hora de parar.
+
+1282
+01:32:11,248 --> 01:32:13,792
+Você fez a sua parte,
+se sacrificou o bastante.
+
+1283
+01:32:13,792 --> 01:32:16,754
+- Deixe outra pessoa ir.
+- Outra pessoa?
+
+1284
+01:32:16,754 --> 01:32:18,255
+- Sim.
+- Eu não conseguiria.
+
+1285
+01:32:18,255 --> 01:32:20,090
+Dê um jeito.
+
+1286
+01:32:20,466 --> 01:32:22,217
+Você precisa.
+
+1287
+01:32:26,972 --> 01:32:30,976
+Eu preciso que você volte
+a ser humano.
+
+1288
+01:32:32,978 --> 01:32:35,272
+Preciso de você aqui.
+
+1289
+01:32:36,690 --> 01:32:39,193
+Amor, eu preciso
+de você aqui.
+
+1290
+01:32:41,779 --> 01:32:44,073
+Se você for de novo...
+
+1291
+01:32:45,032 --> 01:32:48,118
+eu não acho que estaremos
+aqui quando você voltar.
+
+1292
+01:32:53,707 --> 01:32:55,250
+Venha cá.
+
+1293
+01:33:10,891 --> 01:33:13,352
+4ª EXPEDIÇÃO
+
+1294
+01:33:14,311 --> 01:33:15,729
+Chris.
+
+1295
+01:33:17,147 --> 01:33:19,608
+Sofremos investidas
+três noites seguidas.
+
+1296
+01:33:20,067 --> 01:33:22,486
+Falluja foi ruim,
+Ramadi foi ainda pior...
+
+1297
+01:33:22,945 --> 01:33:26,115
+- Mas esse lugar é bíblico.
+- Algum outro justiceiro aqui?
+
+1298
+01:33:26,115 --> 01:33:27,700
+O Esquilo retornou.
+
+1299
+01:33:27,700 --> 01:33:30,494
+O Dauber voltaria para cá,
+mas a mulher engravidou.
+
+1300
+01:33:30,494 --> 01:33:33,998
+Se eu chego com mais um tapete
+em casa minha mulher me mata...
+
+1301
+01:33:33,998 --> 01:33:36,292
+- Coisas de equipe...
+- Coisas de equipe.
+
+1302
+01:33:36,292 --> 01:33:38,127
+A notícia do Biggles
+foi dolorosa.
+
+1303
+01:33:38,127 --> 01:33:40,004
+Visitei-o no hospital
+antes de vir.
+
+1304
+01:33:40,004 --> 01:33:41,797
+O desgraçado
+não está vendo nada.
+
+1305
+01:33:42,631 --> 01:33:44,633
+O Biggles se foi, Chris.
+
+1306
+01:33:45,509 --> 01:33:49,763
+Estava em cirurgia ontem
+e morreu na mesa.
+
+1307
+01:33:57,479 --> 01:34:00,733
+<i>É a Taya, não posso atender.
+Por favor, deixe seu recado.</i>
+
+1308
+01:34:01,191 --> 01:34:04,361
+<i>Sou eu, só estou ligando
+para ouvir a sua voz.</i>
+
+1309
+01:34:04,778 --> 01:34:06,572
+<i>Estou com saudades
+de vocês.</i>
+
+1310
+01:34:06,572 --> 01:34:08,824
+<i>Estive pensando
+no que você disse...</i>
+
+1311
+01:34:09,658 --> 01:34:11,535
+<i>Diga às crianças
+que as amo.</i>
+
+1312
+01:34:12,328 --> 01:34:13,912
+<i>Amo você, também.</i>
+
+1313
+01:35:21,230 --> 01:35:22,690
+Não pegue.
+
+1314
+01:35:26,568 --> 01:35:28,612
+Não pegue, caramba.
+
+1315
+01:35:33,993 --> 01:35:35,619
+Filho da mãe.
+
+1316
+01:35:39,456 --> 01:35:41,125
+Largue isso.
+
+1317
+01:35:54,221 --> 01:35:55,681
+Largue.
+
+1318
+01:36:24,835 --> 01:36:26,253
+<i>Prestem atenção.</i>
+
+1319
+01:36:26,253 --> 01:36:28,672
+Devemos ganhar a guerra
+com essa barreira,
+
+1320
+01:36:28,672 --> 01:36:31,216
+que encurralará
+os elementos restantes da AQI.
+
+1321
+01:36:31,216 --> 01:36:33,636
+Só que os engenheiros
+que estão a construindo
+
+1322
+01:36:33,636 --> 01:36:36,722
+estão sendo alvo de um sniper
+que atira de longe.
+
+1323
+01:36:36,722 --> 01:36:38,140
+O quão longe?
+
+1324
+01:36:38,474 --> 01:36:40,976
+- No máximo 1000 m.
+- É o Mustafa?
+
+1325
+01:36:40,976 --> 01:36:42,603
+- Mu quem?
+- Não sei.
+
+1326
+01:36:42,603 --> 01:36:44,813
+É o sniper
+que acertou o Biggles.
+
+1327
+01:36:44,813 --> 01:36:48,150
+Quem quer que seja ele,
+precisamos dele morto.
+
+1328
+01:36:48,150 --> 01:36:50,569
+Vocês serão deixados
+no perímetro inimigo,
+
+1329
+01:36:50,569 --> 01:36:53,614
+bem do lado do sniper,
+para ver de onde ele atira.
+
+1330
+01:36:53,614 --> 01:36:57,034
+- Bem na tempestade de areia?
+- Pode ir de óculos, docinho.
+
+1331
+01:36:57,034 --> 01:37:00,663
+Precisamos abater o atirador.
+Entendido?
+
+1332
+01:37:00,663 --> 01:37:03,040
+- Aprontem-se.
+- Sim, senhor.
+
+1333
+01:39:09,667 --> 01:39:11,043
+Limpo.
+
+1334
+01:39:11,043 --> 01:39:13,504
+Nos movimentaremos
+em dupla. Vamos.
+
+1335
+01:39:14,588 --> 01:39:16,006
+Vai.
+
+1336
+01:39:20,761 --> 01:39:22,179
+Limpo.
+
+1337
+01:39:22,388 --> 01:39:23,806
+Avance.
+
+1338
+01:39:23,806 --> 01:39:25,224
+Vai, vai.
+
+1339
+01:39:27,101 --> 01:39:29,937
+Tudo limpo.
+Estabeleça a segurança.
+
+1340
+01:40:09,602 --> 01:40:12,313
+Movimentação na rua.
+Conter fogo.
+
+1341
+01:40:22,031 --> 01:40:24,074
+É o Homem-Areia.
+
+1342
+01:41:04,281 --> 01:41:06,283
+- Homem ferido!
+- Protejam-se!
+
+1343
+01:41:09,244 --> 01:41:10,663
+Merda.
+
+1344
+01:41:10,913 --> 01:41:12,748
+O tiro veio do leste.
+
+1345
+01:41:18,963 --> 01:41:21,048
+Olhávamos
+para o lado errado.
+
+1346
+01:41:22,967 --> 01:41:26,804
+Não importa, conter fogo.
+Eles estão bem abaixo de nós.
+
+1347
+01:41:59,670 --> 01:42:02,089
+Vejo algo a 900 m
+de distância.
+
+1348
+01:42:02,840 --> 01:42:04,508
+Nem dá para ver
+de tão longe.
+
+1349
+01:42:04,508 --> 01:42:06,760
+Conter fogo.
+Você irá nos expor.
+
+1350
+01:42:06,760 --> 01:42:08,804
+Ele está certo, Mito.
+Má hora.
+
+1351
+01:42:09,263 --> 01:42:11,724
+Correção, a distância
+é de 1900 m.
+
+1352
+01:42:13,642 --> 01:42:16,353
+É mais de uma milha.
+Tiro impossível, Chris.
+
+1353
+01:42:28,574 --> 01:42:29,992
+É ele.
+
+1354
+01:42:31,827 --> 01:42:34,079
+Unidade Bruiser.
+Temos o alvo na mira.
+
+1355
+01:42:34,079 --> 01:42:36,832
+- Enviar reforços.
+- Entendido.
+
+1356
+01:42:36,832 --> 01:42:39,335
+Forças de reação rápida
+estão a 20 minutos.
+
+1357
+01:42:54,683 --> 01:42:56,644
+Nossos homens estão
+sob a mira dele.
+
+1358
+01:42:56,644 --> 01:42:58,270
+Pode confirmar que é ele?
+
+1359
+01:43:00,898 --> 01:43:02,316
+É ele.
+
+1360
+01:43:03,233 --> 01:43:04,818
+É, sim.
+
+1361
+01:43:04,818 --> 01:43:06,570
+A decisão é sua, Chris.
+
+1362
+01:43:06,570 --> 01:43:09,865
+Reforços a 20 minutos.
+Contenha fogo, caramba.
+
+1363
+01:43:23,212 --> 01:43:24,964
+Se tem a chance, atire.
+
+1364
+01:43:27,424 --> 01:43:29,677
+Mire bem e não erre.
+
+1365
+01:43:30,886 --> 01:43:32,554
+Pelo Biggles.
+
+1366
+01:44:06,672 --> 01:44:08,549
+Acabou de ferrar
+com a gente, Mito.
+
+1367
+01:44:11,218 --> 01:44:12,678
+Alvo abatido.
+
+1368
+01:44:12,678 --> 01:44:14,471
+Precisamos dos reforços!
+
+1369
+01:44:19,018 --> 01:44:20,769
+Missão cumprida.
+
+1370
+01:44:21,103 --> 01:44:23,188
+Nossos homens estavam
+sob a mira dele.
+
+1371
+01:44:23,188 --> 01:44:27,067
+<i>- Eu o abati.
+- E agora estamos ferrados.</i>
+
+1372
+01:44:30,237 --> 01:44:32,156
+Biggles estaria orgulhoso.
+
+1373
+01:44:34,158 --> 01:44:35,784
+Você conseguiu, Chris.
+
+1374
+01:44:38,329 --> 01:44:39,705
+Eco-7-Quilo, atenção.
+
+1375
+01:44:39,705 --> 01:44:41,957
+Inimigos chegando
+por todas as frentes.
+
+1376
+01:44:41,957 --> 01:44:44,752
+Lado branco,
+Mito desgraçado.
+
+1377
+01:44:44,752 --> 01:44:46,420
+Vamos lá.
+
+1378
+01:44:53,177 --> 01:44:54,845
+Só há duas entradas
+para o teto
+
+1379
+01:44:54,845 --> 01:44:56,680
+e nós cobriremos
+ambas as escadas.
+
+1380
+01:44:56,680 --> 01:44:58,057
+<i>Poupem munição.</i>
+
+1381
+01:45:28,879 --> 01:45:30,547
+Vou pegá-los, desgraçados.
+
+1382
+01:45:57,449 --> 01:46:00,744
+Eco-7-Quilo, rebeldes
+se aproximam pelo lado verde.
+
+1383
+01:46:42,244 --> 01:46:44,705
+<i>Estamos sofrendo ataque
+pelo lado branco.</i>
+
+1384
+01:46:44,705 --> 01:46:46,915
+<i>Ataque pelo lado branco!</i>
+
+1385
+01:46:55,883 --> 01:46:58,385
+Estamos com dois homens,
+precisamos dispersar.
+
+1386
+01:46:58,385 --> 01:47:00,387
+Não pare de atirar, cara.
+
+1387
+01:47:01,889 --> 01:47:04,141
+Reforços estão
+a três quadras.
+
+1388
+01:47:15,194 --> 01:47:16,820
+<i>- Munição!
+- Às 3 horas.</i>
+
+1389
+01:47:16,820 --> 01:47:18,405
+Recarregando, último pente.
+
+1390
+01:47:18,739 --> 01:47:20,574
+<i>Só me resta um pente.</i>
+
+1391
+01:47:20,574 --> 01:47:23,494
+<i>Sem munição!
+Alguém tem um pente?</i>
+
+1392
+01:47:23,494 --> 01:47:26,205
+<i>Não podemos mais suportar,
+temos que sair daqui!</i>
+
+1393
+01:47:26,205 --> 01:47:28,082
+Esses caras são
+alvos fáceis.
+
+1394
+01:47:28,082 --> 01:47:31,502
+- Quero varrer essa rua.
+- Isso aí, mande ver.
+
+1395
+01:47:32,211 --> 01:47:33,587
+Dê o comando.
+
+1396
+01:47:33,587 --> 01:47:35,965
+3-Bravo requisitando
+lançamento de projétil.
+
+1397
+01:47:35,965 --> 01:47:39,385
+Coordenada 04837959.
+
+1398
+01:47:39,385 --> 01:47:41,011
+<i>Essa não é a sua posição?</i>
+
+1399
+01:47:41,011 --> 01:47:43,764
+Eles estão em cima de nós.
+Lancem!
+
+1400
+01:47:43,764 --> 01:47:46,350
+Víbora-3-4,
+posição de ataque.
+
+1401
+01:47:46,767 --> 01:47:49,478
+Entendido,
+estou a 30 segundos.
+
+1402
+01:48:01,073 --> 01:48:02,491
+<i>Alô?</i>
+
+1403
+01:48:04,159 --> 01:48:05,577
+<i>Amor?</i>
+
+1404
+01:48:05,577 --> 01:48:09,790
+<i>Chris, não consigo ouvi-lo.
+Alô?</i>
+
+1405
+01:48:11,125 --> 01:48:12,543
+Estou preparado.
+
+1406
+01:48:13,627 --> 01:48:15,879
+Estou preparado
+para voltar para casa.
+
+1407
+01:48:15,879 --> 01:48:17,298
+<i>O quê?</i>
+
+1408
+01:48:19,967 --> 01:48:21,635
+Já visualizo o edifício.
+
+1409
+01:48:23,846 --> 01:48:25,472
+<i>O que está havendo?</i>
+
+1410
+01:48:27,850 --> 01:48:30,102
+Estou preparado
+para voltar, amor.
+
+1411
+01:48:30,853 --> 01:48:32,229
+Chris...
+
+1412
+01:48:35,107 --> 01:48:36,567
+Ar muito poluído.
+
+1413
+01:48:36,567 --> 01:48:38,277
+<i>Não aguentarei
+muito mais tempo.</i>
+
+1414
+01:48:38,277 --> 01:48:40,029
+Diga ao piloto
+para lançar.
+
+1415
+01:48:40,029 --> 01:48:42,323
+<i>Víbora-3-4, disparar.</i>
+
+1416
+01:48:47,161 --> 01:48:48,537
+<i>Errou o alvo.</i>
+
+1417
+01:48:51,373 --> 01:48:52,750
+Merda.
+
+1418
+01:48:54,168 --> 01:48:57,588
+<i>Precisamos nos dispersar!
+Vamos sair!</i>
+
+1419
+01:49:02,718 --> 01:49:04,136
+Temos que ir!
+
+1420
+01:49:12,853 --> 01:49:15,648
+<i>Eco-7-Quilo,
+lado verde livre para saída.</i>
+
+1421
+01:49:19,234 --> 01:49:22,488
+<i>Estou do lado de fora, saída
+pelo lado verde ao meu sinal.</i>
+
+1422
+01:49:24,698 --> 01:49:26,116
+Estamos no terraço.
+
+1423
+01:49:27,159 --> 01:49:28,577
+Vamos.
+
+1424
+01:49:46,762 --> 01:49:48,222
+Último homem!
+
+1425
+01:50:07,491 --> 01:50:09,159
+Entrem no caminhão!
+
+1426
+01:50:20,921 --> 01:50:22,590
+Vamos, vamos!
+
+1427
+01:50:22,590 --> 01:50:24,383
+Venham, entrem!
+
+1428
+01:50:24,383 --> 01:50:26,760
+Entrem no caminhão,
+temos que ir.
+
+1429
+01:50:39,940 --> 01:50:41,567
+Venha,
+precisamos sair daqui.
+
+1430
+01:50:41,567 --> 01:50:43,152
+Deixe-me entrar.
+
+1431
+01:50:48,824 --> 01:50:50,284
+Cadê o Chris?
+
+1432
+01:50:50,284 --> 01:50:52,703
+Ele estava atrás de mim.
+Cadê o Chris, cara?
+
+1433
+01:50:54,872 --> 01:50:56,498
+Abra a maldita porta.
+
+1434
+01:51:00,919 --> 01:51:02,546
+Pare o caminhão!
+
+1435
+01:51:05,549 --> 01:51:07,509
+Onde está o Chris?
+
+1436
+01:51:07,509 --> 01:51:08,886
+Vamos, Chris!
+
+1437
+01:51:10,346 --> 01:51:12,222
+Pare o veículo, cara!
+
+1438
+01:51:12,222 --> 01:51:15,267
+Não podemos deixá-lo.
+Chris, segure a minha mão!
+
+1439
+01:51:16,101 --> 01:51:19,313
+Chris, não pare.
+Vamos, continue.
+
+1440
+01:51:20,397 --> 01:51:22,858
+Eu o peguei.
+Deixem ele entrar.
+
+1441
+01:51:22,858 --> 01:51:24,234
+Venha, Chris.
+
+1442
+01:52:35,222 --> 01:52:38,058
+<i>- Sim?
+- Oi, sou eu.</i>
+
+1443
+01:52:38,058 --> 01:52:41,478
+Recebi mensagem dizendo
+que você está no avião.
+
+1444
+01:52:41,478 --> 01:52:44,148
+<i>Pois é, consegui
+voltar mais cedo.</i>
+
+1445
+01:52:44,148 --> 01:52:45,733
+Conseguiu?
+
+1446
+01:52:46,317 --> 01:52:48,777
+Onde você está?
+Na Alemanha?
+
+1447
+01:52:48,777 --> 01:52:50,779
+Não, estou aqui.
+
+1448
+01:52:52,990 --> 01:52:54,825
+Estou na cidade.
+
+1449
+01:52:55,409 --> 01:52:57,244
+Já está em casa?
+
+1450
+01:52:58,037 --> 01:53:00,456
+O que está fazendo?
+
+1451
+01:53:04,793 --> 01:53:07,046
+Acho que eu precisava
+de um tempo.
+
+1452
+01:53:09,548 --> 01:53:10,966
+Chris...
+
+1453
+01:53:11,550 --> 01:53:14,845
+As crianças querem vê-lo.
+Já faz nove meses...
+
+1454
+01:53:22,770 --> 01:53:24,605
+Estou indo para casa.
+
+1455
+01:53:25,022 --> 01:53:26,690
+<i>Está tudo bem?</i>
+
+1456
+01:53:27,483 --> 01:53:29,360
+Sim, estou bem.
+
+1457
+01:53:32,821 --> 01:53:35,074
+Amor, venha para casa,
+está bem?
+
+1458
+01:53:35,741 --> 01:53:38,035
+Sabe que estamos
+com saudades.
+
+1459
+01:53:41,330 --> 01:53:42,748
+Está bem.
+
+1460
+01:54:23,622 --> 01:54:25,040
+Chris?
+
+1461
+01:54:25,541 --> 01:54:26,917
+Querido...
+
+1462
+01:54:34,133 --> 01:54:36,468
+Vou dar uma saída.
+
+1463
+01:54:44,518 --> 01:54:46,770
+- Pegue!
+- Jogue mais alto!
+
+1464
+01:54:47,229 --> 01:54:50,149
+Olhe só, agora eu vejo
+seu rosto de novo.
+
+1465
+01:54:50,149 --> 01:54:52,776
+- Está bonito, diferente.
+- Que bom.
+
+1466
+01:54:54,695 --> 01:54:56,405
+O jogo é sábado.
+
+1467
+01:54:56,864 --> 01:54:58,907
+Sabia que ele é
+o mais alto do time?
+
+1468
+01:54:58,907 --> 01:55:00,951
+O médico disse
+que ele chega a 1,95 m.
+
+1469
+01:55:00,951 --> 01:55:02,369
+Não é loucura?
+
+1470
+01:55:03,954 --> 01:55:06,749
+Fico louca quando os outros
+pulam por cima dele.
+
+1471
+01:55:06,749 --> 01:55:09,585
+Usam ele de alavanca, sabe?
+
+1472
+01:55:10,711 --> 01:55:13,005
+Quem sabe você pudesse
+ser técnico.
+
+1473
+01:55:16,133 --> 01:55:17,968
+O dentinho da McKenna
+está caindo,
+
+1474
+01:55:17,968 --> 01:55:20,763
+tenho medo que ela engula
+de noite enquanto dorme.
+
+1475
+01:55:20,763 --> 01:55:23,265
+Ela disse
+que só deixa você tirar.
+
+1476
+01:55:23,265 --> 01:55:24,642
+Pode fazer isso?
+
+1477
+01:55:42,743 --> 01:55:44,161
+Chris!
+
+1478
+01:55:58,717 --> 01:56:01,971
+<i>Recebi um telefonema
+interessante da sua esposa.</i>
+
+1479
+01:56:02,304 --> 01:56:04,390
+Ela contou
+sobre o churrasco.
+
+1480
+01:56:05,891 --> 01:56:07,935
+Foi uma infelicidade.
+
+1481
+01:56:07,935 --> 01:56:10,104
+Parece que as coisas
+saíram de controle.
+
+1482
+01:56:10,104 --> 01:56:12,606
+- Você se preocupa?
+- Não, senhor.
+
+1483
+01:56:12,773 --> 01:56:15,150
+Então não se preocupa
+com o que aconteceu
+
+1484
+01:56:15,150 --> 01:56:16,527
+ou pode acontecer?
+
+1485
+01:56:16,527 --> 01:56:18,779
+Não, senhor.
+Isso não me preocupa.
+
+1486
+01:56:19,989 --> 01:56:22,032
+Deixe-me fazer
+uma pergunta.
+
+1487
+01:56:22,491 --> 01:56:24,952
+Quando tempo
+você passou servindo?
+
+1488
+01:56:24,952 --> 01:56:27,621
+Foram quatro missões,
+então...
+
+1489
+01:56:27,621 --> 01:56:31,083
+- Mais de 1000 dias?
+- Por aí.
+
+1490
+01:56:32,209 --> 01:56:34,044
+Ficaria surpreso
+se eu te dissesse
+
+1491
+01:56:34,044 --> 01:56:38,507
+que a Marinha atribui a você
+mais de 160 mortes?
+
+1492
+01:56:40,009 --> 01:56:44,555
+Já pensou que talvez
+lá você tenha visto,
+
+1493
+01:56:44,555 --> 01:56:47,224
+feito coisas que você
+gostaria de ter evitado?
+
+1494
+01:56:47,224 --> 01:56:49,059
+Não, isso não é comigo.
+
+1495
+01:56:49,977 --> 01:56:52,646
+- Não é com você?
+- Só protegi meus companheiros.
+
+1496
+01:56:52,646 --> 01:56:55,190
+Eles queriam matar
+nossos soldados.
+
+1497
+01:56:55,190 --> 01:56:56,900
+Quando eu encontrar
+meu criador,
+
+1498
+01:56:56,900 --> 01:56:59,153
+responderei por cada um
+dos meus disparos.
+
+1499
+01:57:02,156 --> 01:57:03,949
+O que me perturba...
+
+1500
+01:57:04,867 --> 01:57:07,494
+são todos os homens
+que eu não pude salvar.
+
+1501
+01:57:09,538 --> 01:57:12,041
+Agora mesmo
+eu poderia estar lá,
+
+1502
+01:57:12,041 --> 01:57:14,293
+mas não estou,
+pois pedi dispensa.
+
+1503
+01:57:15,920 --> 01:57:18,255
+Você gostaria de poder
+salvar mais vidas?
+
+1504
+01:57:19,214 --> 01:57:20,633
+Sim, senhor.
+
+1505
+01:57:22,259 --> 01:57:25,596
+Então visite qualquer hospital
+de veteranos.
+
+1506
+01:57:25,888 --> 01:57:28,432
+Temos bastante soldados
+precisando de salvação.
+
+1507
+01:57:34,104 --> 01:57:35,981
+Quer dar uma volta?
+
+1508
+01:57:35,981 --> 01:57:37,399
+Claro.
+
+1509
+01:57:37,691 --> 01:57:40,778
+Está bem.
+Permita-me mostrar algo.
+
+1510
+01:57:44,114 --> 01:57:47,743
+Eu ainda fumo.
+Não posso falar mal,
+
+1511
+01:57:47,743 --> 01:57:49,620
+foi o que salvou
+minha mão direita.
+
+1512
+01:57:49,620 --> 01:57:51,163
+De que jeito?
+
+1513
+01:57:51,163 --> 01:57:55,459
+Quando sofri a explosão,
+minhas mãos estavam no volante.
+
+1514
+01:57:55,459 --> 01:57:58,879
+Logo antes da explosão
+eu tirei uma mão,
+
+1515
+01:57:58,879 --> 01:58:01,340
+peguei um cigarro,
+coloquei na boca,
+
+1516
+01:58:01,340 --> 01:58:04,760
+e na hora que fui acender
+aconteceu a explosão.
+
+1517
+01:58:04,760 --> 01:58:08,764
+Levou tudo embaixo do volante
+e a minha mão esquerda.
+
+1518
+01:58:08,764 --> 01:58:11,392
+Eu tive sorte de estar
+com essa aqui.
+
+1519
+01:58:11,684 --> 01:58:14,353
+Também ferrou
+minha mão direita, mas...
+
+1520
+01:58:14,353 --> 01:58:16,814
+- Ainda a tenho.
+- E continua fumando.
+
+1521
+01:58:16,814 --> 01:58:18,190
+É...
+
+1522
+01:58:25,447 --> 01:58:27,241
+Errou, 5 cm à direita.
+
+1523
+01:58:27,241 --> 01:58:29,326
+Vamos lá, Wynn.
+Você pode fazer melhor.
+
+1524
+01:58:31,036 --> 01:58:32,663
+5 cm à direita?
+
+1525
+01:58:33,789 --> 01:58:35,666
+Tente manter
+os dois olhos abertos.
+
+1526
+01:58:35,666 --> 01:58:39,295
+Não se deixe enganar
+pelo gatilho.
+
+1527
+01:58:39,920 --> 01:58:43,716
+- Acho que você quer me ferrar.
+- Acho que você deveria acertar.
+
+1528
+01:58:45,884 --> 01:58:48,095
+- Aí está.
+- Na mosca.
+
+1529
+01:58:48,512 --> 01:58:51,390
+Nossa, sinto como se tivesse
+recuperado minhas bolas.
+
+1530
+01:58:53,142 --> 01:58:55,603
+Por que você passa
+tanto tempo com a gente?
+
+1531
+01:58:55,603 --> 01:58:57,438
+Sei que você tem família.
+
+1532
+01:58:57,438 --> 01:59:00,274
+Soube que antes da guerra
+você tinha vários sapatos.
+
+1533
+01:59:00,274 --> 01:59:02,901
+Pensei que talvez
+calçássemos o mesmo número.
+
+1534
+01:59:03,152 --> 01:59:04,528
+Sério, cara.
+
+1535
+01:59:05,029 --> 01:59:06,614
+Por que faz isso?
+
+1536
+01:59:06,614 --> 01:59:08,657
+Nós cuidamos
+uns dos outros, não é?
+
+1537
+01:59:09,074 --> 01:59:11,243
+Vamos ver se acerta
+duas vezes seguidas.
+
+1538
+01:59:12,870 --> 01:59:14,663
+Vai lá, cara,
+você consegue.
+
+1539
+01:59:16,415 --> 01:59:18,042
+- Acerto.
+- Legal.
+
+1540
+01:59:23,672 --> 01:59:25,049
+Caramba.
+
+1541
+01:59:26,216 --> 01:59:27,801
+Quem é o mito agora?
+
+1542
+01:59:29,219 --> 01:59:31,096
+Esse é um título
+que você não quer.
+
+1543
+01:59:31,096 --> 01:59:32,473
+Pode acreditar.
+
+1544
+01:59:37,770 --> 01:59:39,730
+<i>Desça que eu vou
+te passando.</i>
+
+1545
+01:59:43,192 --> 01:59:45,361
+- Aguenta mais uma?
+- Sim.
+
+1546
+01:59:46,153 --> 01:59:48,447
+- Leve lá para dentro.
+- Está bem.
+
+1547
+02:00:11,512 --> 02:00:12,888
+Venha cá.
+
+1548
+02:00:16,475 --> 02:00:18,519
+Até que não é ruim aqui,
+não é?
+
+1549
+02:00:18,769 --> 02:00:20,521
+Ele está sorrindo.
+
+1550
+02:00:21,230 --> 02:00:22,940
+Parece estar feliz.
+
+1551
+02:00:23,774 --> 02:00:25,484
+Vivendo a vida dele.
+
+1552
+02:00:28,195 --> 02:00:29,863
+Dê tchau para ele.
+
+1553
+02:00:40,499 --> 02:00:43,794
+Quem está aí?
+Amor, é você?
+
+1554
+02:00:44,336 --> 02:00:46,839
+Eu me machuquei, droga.
+
+1555
+02:00:46,839 --> 02:00:49,008
+- O quê?
+- Não, estou bem.
+
+1556
+02:00:49,341 --> 02:00:51,802
+- Tudo bem. Droga.
+- Amor, desculpa.
+
+1557
+02:00:51,802 --> 02:00:53,804
+- Tudo bem.
+- O que houve?
+
+1558
+02:00:57,308 --> 02:01:00,352
+É uma coisa e tanto fazer
+um coração parar de bater.
+
+1559
+02:01:02,396 --> 02:01:05,357
+É o que nós faremos
+pela sua primeira vez.
+
+1560
+02:01:05,691 --> 02:01:07,109
+Está bem.
+
+1561
+02:01:07,776 --> 02:01:10,154
+Lembre-se de ter calma,
+
+1562
+02:01:10,446 --> 02:01:12,114
+confiança...
+
+1563
+02:01:12,489 --> 02:01:14,116
+e nunca hesitar.
+
+1564
+02:01:16,035 --> 02:01:18,078
+- Certo.
+- Entendeu, Bubba?
+
+1565
+02:01:18,078 --> 02:01:19,913
+- Entendi.
+- Sente-se bem?
+
+1566
+02:01:19,913 --> 02:01:21,498
+Sim.
+
+1567
+02:01:23,542 --> 02:01:25,628
+2 DE FEVEREIRO DE 2013
+
+1568
+02:01:37,348 --> 02:01:41,352
+Mãos para o alto, senhorita.
+Mãos para o alto.
+
+1569
+02:01:42,519 --> 02:01:44,772
+Ponha a calcinha no chão.
+
+1570
+02:01:46,148 --> 02:01:49,401
+Bem devagar.
+
+1571
+02:01:50,194 --> 02:01:52,404
+Amor, olhe só você...
+
+1572
+02:01:52,404 --> 02:01:54,615
+- Olhe você.
+- Olhe você.
+
+1573
+02:01:55,824 --> 02:01:57,493
+Posso dizer uma coisa?
+
+1574
+02:01:57,493 --> 02:01:59,328
+Diga ao juiz.
+
+1575
+02:02:00,621 --> 02:02:03,624
+Eu tenho orgulho de você
+e não te digo o bastante
+
+1576
+02:02:03,624 --> 02:02:06,835
+que você me orgulha
+e é um ótimo pai.
+
+1577
+02:02:06,835 --> 02:02:09,672
+Estou muito feliz
+de ter meu marido de volta.
+
+1578
+02:02:11,215 --> 02:02:14,176
+E sei o quanto você lutou
+para estar aqui.
+
+1579
+02:02:15,552 --> 02:02:17,346
+Por você valeu a pena.
+
+1580
+02:02:19,181 --> 02:02:23,102
+Só me diga mais uma coisa.
+Você vincou essa calça?
+
+1581
+02:02:23,102 --> 02:02:25,562
+Sim, senhora.
+Vinquei
+ bem no meio.
+
+1582
+02:02:25,562 --> 02:02:28,774
+- Você é um peão clássico.
+- Isso mesmo.
+
+1583
+02:02:28,774 --> 02:02:30,359
+Falo sério
+sobre a calcinha.
+
+1584
+02:02:30,359 --> 02:02:32,528
+Não estou com nenhuma,
+querido.
+
+1585
+02:02:33,195 --> 02:02:34,863
+Eu tenho quatro minutos.
+
+1586
+02:02:35,948 --> 02:02:38,659
+- Só aguenta isso?
+- Não, aguento 2 min.
+
+1587
+02:02:38,659 --> 02:02:41,203
+E sobram mais dois
+para ficar te olhando.
+
+1588
+02:02:41,954 --> 02:02:44,039
+Você não está indo
+ao campo de tiro?
+
+1589
+02:02:44,790 --> 02:02:46,667
+Quem você está levando?
+
+1590
+02:02:46,667 --> 02:02:49,712
+Um fuzileiro veterano.
+A mãe dele fica me pedindo.
+
+1591
+02:02:49,712 --> 02:02:51,922
+Nos encontramos na escola
+e ela me disse:
+
+1592
+02:02:51,922 --> 02:02:53,841
+"Pode ajudar meu filho?"
+
+1593
+02:02:54,258 --> 02:02:56,343
+Hoje era o único dia
+que eu podia.
+
+1594
+02:02:56,343 --> 02:02:59,346
+Não demoro muito,
+de noite estou de volta.
+
+1595
+02:03:01,223 --> 02:03:03,058
+- Tranque bem a porta...
+- Pai.
+
+1596
+02:03:03,058 --> 02:03:04,935
+Quer jogar Skylanders?
+
+1597
+02:03:05,227 --> 02:03:08,063
+Agora eu não posso.
+Jogamos mais tarde.
+
+1598
+02:03:08,063 --> 02:03:11,442
+Você já está no nível 8,
+eu ainda nem cheguei no 4.
+
+1599
+02:03:11,442 --> 02:03:13,652
+Eu quero ganhar,
+você vai ter que deixar.
+
+1600
+02:03:13,652 --> 02:03:15,696
+- Sem chances.
+- Atice o urso!
+
+1601
+02:03:15,696 --> 02:03:18,949
+- Atice o quê?
+- Atice o urso!
+
+1602
+02:03:18,949 --> 02:03:20,326
+Atice o urso!
+
+1603
+02:03:20,993 --> 02:03:23,162
+Não, você tem que rugir.
+
+1604
+02:03:23,746 --> 02:03:25,372
+Como?
+
+1605
+02:03:25,372 --> 02:03:27,750
+Como um monstro?
+Como é que faz?
+
+1606
+02:03:32,963 --> 02:03:34,381
+Certo, amigão.
+
+1607
+02:03:34,381 --> 02:03:36,800
+Cuide das nossas mulheres,
+está bem?
+
+1608
+02:03:36,800 --> 02:03:40,346
+É uma grande responsabilidade.
+Você é capaz?
+
+1609
+02:03:41,597 --> 02:03:43,349
+Nos vemos mais tarde,
+querida.
+
+1610
+02:03:43,349 --> 02:03:45,267
+- Te amo.
+- Volto logo.
+
+1611
+02:03:51,982 --> 02:03:53,776
+- Como vai, tudo bem?
+- Tudo.
+
+1612
+02:03:53,776 --> 02:03:55,736
+Dirigimos umas duas horas,
+
+1613
+02:03:55,736 --> 02:03:57,905
+damos um tiros
+e conversamos no caminho.
+
+1614
+02:03:57,905 --> 02:03:59,615
+- O que acha?
+- Está bem.
+
+1615
+02:03:59,907 --> 02:04:01,325
+Vamos lá.
+
+1616
+02:04:01,325 --> 02:04:02,743
+Obrigado.
+
+1617
+02:04:03,410 --> 02:04:06,246
+Está com fome?
+Quer comer algo no caminho?
+
+1618
+02:04:14,588 --> 02:04:17,466
+CHRIS KYLE FOI MORTO
+NESTE DIA
+
+1619
+02:04:17,466 --> 02:04:20,886
+PELO VETERANO
+QUE ELE TENTAVA AJUDAR.
+
+1620
+02:05:43,469 --> 02:05:46,889
+CERIMÔNIA MEMORIAL
+ESTÁDIO DO DALLAS COWBOYS
+
+
+
+
+
+
+
+
+
