@@ -15,8 +15,6 @@ https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/chunklist_b640000_slpor.m
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
 #EXTINF:-1 tvg-name="Euronews HD" tvg-id="Euronews.pt" group-title="Vollprogramm" tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png",Euronews HD
 https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rtp Memoria" tvg-id="RtpMemoria.pt" group-title="Vollprogramm" tvg-logo="https://i.ibb.co/vZ9S4rV/rtpmem.jpg",RTP MEMORIA
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8
 #EXTINF:-1 tvg-name="Rtp Africa" tvg-id="rtpafrica.pt" group-title="Vollprogramm" tvg-logo="https://i.ibb.co/BsdgH54/rtpafr.webp",rtp africa
 https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="TVI REALITY" tvg-id="tvireality.pt" group-title="Vollprogramm" tvg-logo="https://i.ibb.co/xYNTr2v/tvirea.jpg",TVI REALITY
